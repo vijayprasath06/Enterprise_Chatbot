@@ -1,0 +1,13 @@
+From: isha.joshi@novatech.com
+To: rhea.iyer@novatech.com
+Subject: Security incident report
+Date: Mon, 10 Nov 2025 04:22:15
+
+Hi Rhea,
+
+This is regarding MarketSense.
+Please prioritize the tasks for MarketSense as discussed in the roadmap meeting.
+
+Thanks,
+Isha Joshi
+Software Engineer

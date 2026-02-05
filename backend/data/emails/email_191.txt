@@ -1,0 +1,13 @@
+From: divya.chopra@novatech.com
+To: divya.rao@novatech.com, sunil.mehta@novatech.com
+Subject: Request: Data for Q2 churn analysis
+Date: Mon, 09 Dec 2024 02:43:15
+
+Hi Divya,
+
+This is regarding Product13.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Divya Chopra
+Senior Software Engineer

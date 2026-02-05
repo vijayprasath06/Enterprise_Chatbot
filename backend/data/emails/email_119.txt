@@ -1,0 +1,13 @@
+From: anita.mehta@novatech.com
+To: asha.saxena@novatech.com, nikhil.das@novatech.com, isha.reddy@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Fri, 26 Sep 2025 18:26:15
+
+Hi Asha,
+
+This is regarding Product20.
+Can you share the logs for the latest deployment of Product20?
+
+Thanks,
+Anita Mehta
+VP Product

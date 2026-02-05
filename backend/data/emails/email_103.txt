@@ -1,0 +1,13 @@
+From: kamal.gupta@novatech.com
+To: sunil.chopra@novatech.com, priya.saxena@novatech.com, dev.das@novatech.com
+Subject: Request: Data for Q4 churn analysis
+Date: Wed, 24 Sep 2025 20:45:15
+
+Hi Sunil,
+
+This is regarding PayBridge.
+Can you share the logs for the latest deployment of PayBridge?
+
+Thanks,
+Kamal Gupta
+Project Manager

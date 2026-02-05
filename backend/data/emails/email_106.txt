@@ -1,0 +1,13 @@
+From: priya.rao@novatech.com
+To: rohit.chopra@novatech.com, pooja.mehta@novatech.com
+Subject: On-call rota for next week
+Date: Sat, 24 May 2025 06:43:15
+
+Hi Rohit,
+
+This is regarding Product11.
+Can you share the logs for the latest deployment of Product11?
+
+Thanks,
+Priya Rao
+CTO

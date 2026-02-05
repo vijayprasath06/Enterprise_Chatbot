@@ -1,0 +1,13 @@
+From: mark.bose@novatech.com
+To: asha.bose@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Fri, 04 Jul 2025 18:00:15
+
+Hi Asha,
+
+This is regarding PayBridge.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Mark Bose
+VP Product

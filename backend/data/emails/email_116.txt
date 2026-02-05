@@ -1,0 +1,13 @@
+From: asha.saxena@novatech.com
+To: divya.chopra@novatech.com, anita.sharma@novatech.com, mark.mehta@novatech.com
+Subject: Deployment schedule for Product11
+Date: Wed, 12 Mar 2025 20:31:15
+
+Hi Divya,
+
+This is regarding Product11.
+Client GlobalMart reported an issue: Permission denied.
+
+Thanks,
+Asha Saxena
+CTO

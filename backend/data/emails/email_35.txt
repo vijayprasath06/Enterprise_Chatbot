@@ -1,0 +1,13 @@
+From: kamal.gupta@novatech.com
+To: suresh.chopra@novatech.com, vikram.kumar@novatech.com, rita.reddy@novatech.com
+Subject: On-call rota for next week
+Date: Tue, 01 Apr 2025 06:24:15
+
+Hi Suresh,
+
+This is regarding FlowTrack.
+Can you share the logs for the latest deployment of FlowTrack?
+
+Thanks,
+Kamal Gupta
+Project Manager

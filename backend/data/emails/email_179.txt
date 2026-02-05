@@ -1,0 +1,13 @@
+From: sunil.rao@novatech.com
+To: manish.malhotra@novatech.com, asha.malhotra@novatech.com
+Subject: Budget allocation for Product15
+Date: Sat, 04 Jan 2025 10:15:15
+
+Hi Manish,
+
+This is regarding Product15.
+Please prioritize the tasks for Product15 as discussed in the roadmap meeting.
+
+Thanks,
+Sunil Rao
+CTO

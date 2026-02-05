@@ -1,0 +1,13 @@
+From: rohit.singh@novatech.com
+To: sunil.kapoor@novatech.com
+Subject: Security incident report
+Date: Sat, 15 Feb 2025 23:43:15
+
+Hi Sunil,
+
+This is regarding SecureID.
+Can you share the logs for the latest deployment of SecureID?
+
+Thanks,
+Rohit Singh
+VP Product

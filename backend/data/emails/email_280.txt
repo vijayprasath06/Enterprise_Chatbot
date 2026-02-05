@@ -1,0 +1,13 @@
+From: suresh.malhotra@novatech.com
+To: suresh.rao@novatech.com, mark.mehta@novatech.com, sneha.kapoor@novatech.com
+Subject: Critical bug in Insight360 Production
+Date: Wed, 16 Apr 2025 07:23:15
+
+Hi Suresh,
+
+This is regarding Insight360.
+Client RetailKart reported an issue: Memory leak on service.
+
+Thanks,
+Suresh Malhotra
+VP Product

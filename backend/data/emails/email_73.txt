@@ -1,0 +1,13 @@
+From: sunil.rao@novatech.com
+To: rohit.chopra@novatech.com, pooja.das@novatech.com
+Subject: Request: Data for Q2 churn analysis
+Date: Mon, 20 Jan 2025 10:58:15
+
+Hi Rohit,
+
+This is regarding FlowTrack.
+Please prioritize the tasks for FlowTrack as discussed in the roadmap meeting.
+
+Thanks,
+Sunil Rao
+CTO

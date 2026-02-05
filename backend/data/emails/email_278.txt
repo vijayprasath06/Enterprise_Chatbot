@@ -1,0 +1,13 @@
+From: karan.malhotra@novatech.com
+To: sneha.iyer@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Fri, 04 Jul 2025 22:54:15
+
+Hi Sneha,
+
+This is regarding MarketSense.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Karan Malhotra
+VP Product

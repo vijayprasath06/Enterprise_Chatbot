@@ -1,0 +1,13 @@
+From: leena.pillai@novatech.com
+To: divya.malhotra@novatech.com
+Subject: Critical bug in Product12 Production
+Date: Fri, 24 Jan 2025 04:31:15
+
+Hi Divya,
+
+This is regarding Product12.
+Please prioritize the tasks for Product12 as discussed in the roadmap meeting.
+
+Thanks,
+Leena Pillai
+Data Analyst

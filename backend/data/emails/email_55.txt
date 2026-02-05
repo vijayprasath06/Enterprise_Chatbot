@@ -1,0 +1,13 @@
+From: priya.patel@novatech.com
+To: samir.mehta@novatech.com, asha.rao@novatech.com, sunil.saxena@novatech.com
+Subject: Security incident report
+Date: Fri, 30 May 2025 04:42:15
+
+Hi Samir,
+
+This is regarding Product13.
+Can you share the logs for the latest deployment of Product13?
+
+Thanks,
+Priya Patel
+Project Manager

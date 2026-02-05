@@ -1,0 +1,13 @@
+From: rita.iyer@novatech.com
+To: asha.joshi@novatech.com, sneha.kapoor@novatech.com
+Subject: On-call rota for next week
+Date: Fri, 11 Apr 2025 08:01:15
+
+Hi Asha,
+
+This is regarding Product12.
+Please prioritize the tasks for Product12 as discussed in the roadmap meeting.
+
+Thanks,
+Rita Iyer
+CEO

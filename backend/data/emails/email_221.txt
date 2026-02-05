@@ -1,0 +1,13 @@
+From: rita.pillai@novatech.com
+To: anita.mehta@novatech.com, suresh.singh@novatech.com
+Subject: Budget allocation for Product13
+Date: Fri, 31 Jan 2025 19:16:15
+
+Hi Anita,
+
+This is regarding Product13.
+Can you share the logs for the latest deployment of Product13?
+
+Thanks,
+Rita Pillai
+Sales Executive

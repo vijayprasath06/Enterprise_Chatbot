@@ -1,0 +1,13 @@
+From: priya.iyer@novatech.com
+To: rita.pillai@novatech.com
+Subject: Budget allocation for NovaPay
+Date: Sun, 09 Nov 2025 03:07:15
+
+Hi Rita,
+
+This is regarding NovaPay.
+Can you share the logs for the latest deployment of NovaPay?
+
+Thanks,
+Priya Iyer
+HR Manager

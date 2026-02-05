@@ -1,0 +1,13 @@
+From: pooja.joshi@novatech.com
+To: sunil.iyer@novatech.com, neha.pillai@novatech.com
+Subject: Budget allocation for CloudPulse
+Date: Sat, 23 Aug 2025 16:21:15
+
+Hi Sunil,
+
+This is regarding CloudPulse.
+Can you share the logs for the latest deployment of CloudPulse?
+
+Thanks,
+Pooja Joshi
+Finance Manager

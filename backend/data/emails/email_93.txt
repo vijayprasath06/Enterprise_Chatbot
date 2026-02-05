@@ -1,0 +1,13 @@
+From: rohit.chopra@novatech.com
+To: sunil.nair@novatech.com, sunil.saxena@novatech.com, anita.kapoor@novatech.com
+Subject: Security incident report
+Date: Sat, 05 Jul 2025 10:19:15
+
+Hi Sunil,
+
+This is regarding SecureID.
+Client AcmeCorp reported an issue: Dashboard loading slow.
+
+Thanks,
+Rohit Chopra
+Support Lead

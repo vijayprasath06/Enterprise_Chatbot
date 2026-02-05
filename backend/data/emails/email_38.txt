@@ -1,0 +1,13 @@
+From: isha.sharma@novatech.com
+To: rita.reddy@novatech.com, tara.pillai@novatech.com, suresh.malhotra@novatech.com
+Subject: Critical bug in EdgeCompute Production
+Date: Fri, 14 Feb 2025 10:31:15
+
+Hi Rita,
+
+This is regarding EdgeCompute.
+Client AcmeCorp reported an issue: Latency spike.
+
+Thanks,
+Isha Sharma
+Project Manager

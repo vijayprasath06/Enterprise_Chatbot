@@ -1,0 +1,13 @@
+From: karan.das@novatech.com
+To: raj.pillai@novatech.com
+Subject: Action required: SLA breach
+Date: Tue, 24 Dec 2024 22:54:15
+
+Hi Raj,
+
+This is regarding Product15.
+Can you share the logs for the latest deployment of Product15?
+
+Thanks,
+Karan Das
+Project Manager

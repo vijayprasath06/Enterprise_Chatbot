@@ -1,0 +1,13 @@
+From: samir.pillai@novatech.com
+To: anita.singh@novatech.com
+Subject: Budget allocation for FlowTrack
+Date: Wed, 18 Jun 2025 15:26:15
+
+Hi Anita,
+
+This is regarding FlowTrack.
+Please prioritize the tasks for FlowTrack as discussed in the roadmap meeting.
+
+Thanks,
+Samir Pillai
+Software Engineer

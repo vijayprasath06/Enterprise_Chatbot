@@ -1,0 +1,13 @@
+From: arjun.mehta@novatech.com
+To: asha.das@novatech.com, divya.mehta@novatech.com
+Subject: Request: Data for Q1 churn analysis
+Date: Thu, 21 Aug 2025 23:20:15
+
+Hi Asha,
+
+This is regarding Product17.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Arjun Mehta
+Senior Software Engineer

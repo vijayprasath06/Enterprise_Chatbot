@@ -1,0 +1,13 @@
+From: arjun.das@novatech.com
+To: manish.chopra@novatech.com, suresh.iyer@novatech.com, pooja.malhotra@novatech.com
+Subject: Budget allocation for Product15
+Date: Mon, 06 Oct 2025 09:28:15
+
+Hi Manish,
+
+This is regarding Product15.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Arjun Das
+Data Scientist

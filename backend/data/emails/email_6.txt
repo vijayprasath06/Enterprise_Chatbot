@@ -1,0 +1,13 @@
+From: kamal.das@novatech.com
+To: asha.rao@novatech.com, anita.nair@novatech.com, neha.dsouza@novatech.com
+Subject: Action required: SLA breach
+Date: Thu, 02 Oct 2025 08:41:15
+
+Hi Asha,
+
+This is regarding CloudPulse.
+Can you share the logs for the latest deployment of CloudPulse?
+
+Thanks,
+Kamal Das
+HR Manager

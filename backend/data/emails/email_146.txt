@@ -1,0 +1,13 @@
+From: arjun.saxena@novatech.com
+To: priya.kumar@novatech.com, arjun.reddy@novatech.com, raj.malhotra@novatech.com
+Subject: On-call rota for next week
+Date: Mon, 29 Sep 2025 11:20:15
+
+Hi Priya,
+
+This is regarding Product18.
+Please prioritize the tasks for Product18 as discussed in the roadmap meeting.
+
+Thanks,
+Arjun Saxena
+CEO

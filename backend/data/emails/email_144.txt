@@ -1,0 +1,13 @@
+From: sneha.joshi@novatech.com
+To: anita.gupta@novatech.com, anita.sharma@novatech.com
+Subject: Security incident report
+Date: Mon, 17 Mar 2025 00:52:15
+
+Hi Anita,
+
+This is regarding Product19.
+Can you share the logs for the latest deployment of Product19?
+
+Thanks,
+Sneha Joshi
+VP Product

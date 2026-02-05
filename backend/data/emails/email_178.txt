@@ -1,0 +1,13 @@
+From: rhea.nair@novatech.com
+To: karan.rao@novatech.com
+Subject: Critical bug in Product17 Production
+Date: Thu, 20 Feb 2025 09:58:15
+
+Hi Karan,
+
+This is regarding Product17.
+Can you share the logs for the latest deployment of Product17?
+
+Thanks,
+Rhea Nair
+Senior Software Engineer

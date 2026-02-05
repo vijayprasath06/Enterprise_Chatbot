@@ -1,0 +1,13 @@
+From: anita.nair@novatech.com
+To: priya.chopra@novatech.com, rhea.mehta@novatech.com, vikram.rao@novatech.com
+Subject: Deployment schedule for Product12
+Date: Wed, 22 Jan 2025 04:18:15
+
+Hi Priya,
+
+This is regarding Product12.
+Please prioritize the tasks for Product12 as discussed in the roadmap meeting.
+
+Thanks,
+Anita Nair
+Senior Software Engineer

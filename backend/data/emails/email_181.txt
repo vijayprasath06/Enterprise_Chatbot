@@ -1,0 +1,13 @@
+From: priya.reddy@novatech.com
+To: asha.saxena@novatech.com, leena.reddy@novatech.com
+Subject: Weekly status update
+Date: Fri, 05 Sep 2025 11:01:15
+
+Hi Asha,
+
+This is regarding Product15.
+Can you share the logs for the latest deployment of Product15?
+
+Thanks,
+Priya Reddy
+CEO

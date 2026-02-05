@@ -1,0 +1,13 @@
+From: maya.patel@novatech.com
+To: vikram.singh@novatech.com, pooja.chopra@novatech.com
+Subject: Customer complaint escalation: EduTech
+Date: Tue, 15 Jul 2025 23:56:15
+
+Hi Vikram,
+
+This is regarding Product16.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Maya Patel
+Software Engineer

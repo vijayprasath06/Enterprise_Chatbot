@@ -1,0 +1,13 @@
+From: karan.chopra@novatech.com
+To: raj.das@novatech.com, kamal.reddy@novatech.com, raj.nair@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Sun, 04 May 2025 13:30:15
+
+Hi Raj,
+
+This is regarding HelpDeskPro.
+Please prioritize the tasks for HelpDeskPro as discussed in the roadmap meeting.
+
+Thanks,
+Karan Chopra
+Finance Manager

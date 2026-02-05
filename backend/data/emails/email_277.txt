@@ -1,0 +1,13 @@
+From: rita.saxena@novatech.com
+To: manish.malhotra@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Sun, 25 May 2025 08:46:15
+
+Hi Manish,
+
+This is regarding Product20.
+Can you share the logs for the latest deployment of Product20?
+
+Thanks,
+Rita Saxena
+Data Analyst

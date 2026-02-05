@@ -1,0 +1,13 @@
+From: vikram.sharma@novatech.com
+To: raj.nair@novatech.com, suresh.malhotra@novatech.com, divya.rao@novatech.com
+Subject: On-call rota for next week
+Date: Wed, 22 Jan 2025 04:11:15
+
+Hi Raj,
+
+This is regarding NovaPay.
+Client RetailKart reported an issue: Failed job retries.
+
+Thanks,
+Vikram Sharma
+Data Scientist

@@ -1,0 +1,13 @@
+From: anita.gupta@novatech.com
+To: vikram.malhotra@novatech.com, manish.bose@novatech.com
+Subject: Customer complaint escalation: HealthPlus
+Date: Tue, 18 Feb 2025 17:51:15
+
+Hi Vikram,
+
+This is regarding Product17.
+Please prioritize the tasks for Product17 as discussed in the roadmap meeting.
+
+Thanks,
+Anita Gupta
+CTO

@@ -1,0 +1,13 @@
+From: nikhil.reddy@novatech.com
+To: maya.kapoor@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Thu, 29 May 2025 17:47:15
+
+Hi Maya,
+
+This is regarding Product13.
+Can you share the logs for the latest deployment of Product13?
+
+Thanks,
+Nikhil Reddy
+Software Engineer

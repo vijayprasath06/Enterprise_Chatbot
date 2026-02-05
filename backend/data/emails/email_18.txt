@@ -1,0 +1,13 @@
+From: vikram.iyer@novatech.com
+To: karan.gupta@novatech.com, anita.kumar@novatech.com, anita.kumar@novatech.com
+Subject: Request: Data for Q4 churn analysis
+Date: Mon, 03 Nov 2025 16:46:15
+
+Hi Karan,
+
+This is regarding Product14.
+Can you share the logs for the latest deployment of Product14?
+
+Thanks,
+Vikram Iyer
+Senior Software Engineer

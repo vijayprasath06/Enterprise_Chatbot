@@ -1,0 +1,13 @@
+From: pooja.das@novatech.com
+To: asha.sharma@novatech.com, leena.pillai@novatech.com
+Subject: On-call rota for next week
+Date: Sat, 22 Nov 2025 12:23:15
+
+Hi Asha,
+
+This is regarding Product16.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Pooja Das
+VP Product

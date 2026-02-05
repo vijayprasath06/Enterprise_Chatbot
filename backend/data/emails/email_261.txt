@@ -1,0 +1,13 @@
+From: divya.dsouza@novatech.com
+To: kamal.gupta@novatech.com, rhea.mehta@novatech.com
+Subject: Deployment schedule for Product13
+Date: Thu, 25 Sep 2025 11:30:15
+
+Hi Kamal,
+
+This is regarding Product13.
+Can you share the logs for the latest deployment of Product13?
+
+Thanks,
+Divya Dsouza
+Data Analyst

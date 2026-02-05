@@ -1,0 +1,13 @@
+From: raj.das@novatech.com
+To: asha.malhotra@novatech.com, vikram.singh@novatech.com, pooja.nair@novatech.com
+Subject: Budget allocation for HelpDeskPro
+Date: Fri, 21 Feb 2025 11:08:15
+
+Hi Asha,
+
+This is regarding HelpDeskPro.
+Can you share the logs for the latest deployment of HelpDeskPro?
+
+Thanks,
+Raj Das
+Support Lead

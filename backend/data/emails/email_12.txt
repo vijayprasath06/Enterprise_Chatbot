@@ -1,0 +1,13 @@
+From: isha.sharma@novatech.com
+To: manish.patel@novatech.com, dev.das@novatech.com, arjun.mehta@novatech.com
+Subject: Deployment schedule for Product11
+Date: Fri, 27 Dec 2024 18:58:15
+
+Hi Manish,
+
+This is regarding Product11.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Isha Sharma
+Project Manager

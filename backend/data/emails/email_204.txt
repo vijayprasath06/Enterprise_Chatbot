@@ -1,0 +1,13 @@
+From: sunil.rao@novatech.com
+To: arjun.singh@novatech.com, vikram.iyer@novatech.com, pooja.saxena@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Sun, 23 Nov 2025 05:30:15
+
+Hi Arjun,
+
+This is regarding Insight360.
+Client BlueLine Inc reported an issue: Automation trigger not firing.
+
+Thanks,
+Sunil Rao
+CTO

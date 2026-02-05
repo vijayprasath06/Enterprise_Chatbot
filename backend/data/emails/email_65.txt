@@ -1,0 +1,13 @@
+From: tara.mehta@novatech.com
+To: karan.kapoor@novatech.com, manish.malhotra@novatech.com
+Subject: Weekly status update
+Date: Mon, 17 Mar 2025 18:50:15
+
+Hi Karan,
+
+This is regarding Product18.
+Client EduTech reported an issue: Automation trigger not firing.
+
+Thanks,
+Tara Mehta
+Data Scientist

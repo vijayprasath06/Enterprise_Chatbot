@@ -1,0 +1,13 @@
+From: rita.pillai@novatech.com
+To: karan.mehta@novatech.com
+Subject: Critical bug in Product18 Production
+Date: Sat, 10 May 2025 12:23:15
+
+Hi Karan,
+
+This is regarding Product18.
+Can you share the logs for the latest deployment of Product18?
+
+Thanks,
+Rita Pillai
+Senior Software Engineer

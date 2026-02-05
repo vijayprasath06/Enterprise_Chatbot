@@ -1,0 +1,13 @@
+From: suresh.dsouza@novatech.com
+To: pooja.malhotra@novatech.com
+Subject: Deployment schedule for MarketSense
+Date: Fri, 30 May 2025 20:51:15
+
+Hi Pooja,
+
+This is regarding MarketSense.
+Can you share the logs for the latest deployment of MarketSense?
+
+Thanks,
+Suresh Dsouza
+Sales Executive

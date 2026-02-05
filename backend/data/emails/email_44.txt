@@ -1,0 +1,13 @@
+From: maya.pillai@novatech.com
+To: karan.kapoor@novatech.com, isha.joshi@novatech.com, vikram.rao@novatech.com
+Subject: Request: Data for Q2 churn analysis
+Date: Thu, 17 Apr 2025 05:48:15
+
+Hi Karan,
+
+This is regarding Product19.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Maya Pillai
+CTO

@@ -1,0 +1,13 @@
+From: samir.nair@novatech.com
+To: karan.gupta@novatech.com
+Subject: Security incident report
+Date: Sat, 08 Nov 2025 23:50:15
+
+Hi Karan,
+
+This is regarding Product16.
+We need revised budget approval for Product16 to cover Q1 expenses.
+
+Thanks,
+Samir Nair
+Data Scientist

@@ -1,0 +1,13 @@
+From: rita.verma@novatech.com
+To: divya.rao@novatech.com, leena.nair@novatech.com
+Subject: Deployment schedule for CloudPulse
+Date: Sun, 19 Jan 2025 07:47:15
+
+Hi Divya,
+
+This is regarding CloudPulse.
+Please prioritize the tasks for CloudPulse as discussed in the roadmap meeting.
+
+Thanks,
+Rita Verma
+Software Engineer

@@ -1,0 +1,13 @@
+From: kamal.reddy@novatech.com
+To: isha.saxena@novatech.com, vikram.das@novatech.com
+Subject: Critical bug in NovaPay Production
+Date: Tue, 25 Nov 2025 09:08:15
+
+Hi Isha,
+
+This is regarding NovaPay.
+Please prioritize the tasks for NovaPay as discussed in the roadmap meeting.
+
+Thanks,
+Kamal Reddy
+VP Product

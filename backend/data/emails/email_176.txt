@@ -1,0 +1,13 @@
+From: rhea.nair@novatech.com
+To: pooja.chopra@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Tue, 15 Apr 2025 18:38:15
+
+Hi Pooja,
+
+This is regarding Product17.
+Client RetailKart reported an issue: Authentication failure.
+
+Thanks,
+Rhea Nair
+Senior Software Engineer

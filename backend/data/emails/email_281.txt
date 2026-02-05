@@ -1,0 +1,13 @@
+From: priya.chopra@novatech.com
+To: suresh.gupta@novatech.com
+Subject: Weekly status update
+Date: Wed, 16 Apr 2025 23:04:15
+
+Hi Suresh,
+
+This is regarding Product15.
+Please prioritize the tasks for Product15 as discussed in the roadmap meeting.
+
+Thanks,
+Priya Chopra
+Support Lead

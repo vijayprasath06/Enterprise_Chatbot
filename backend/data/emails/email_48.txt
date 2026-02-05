@@ -1,0 +1,13 @@
+From: rita.nair@novatech.com
+To: anita.sharma@novatech.com, rita.gupta@novatech.com, nikhil.das@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Mon, 27 Jan 2025 20:31:15
+
+Hi Anita,
+
+This is regarding CloudPulse.
+Please prioritize the tasks for CloudPulse as discussed in the roadmap meeting.
+
+Thanks,
+Rita Nair
+Data Analyst

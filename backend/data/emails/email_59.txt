@@ -1,0 +1,13 @@
+From: rohit.singh@novatech.com
+To: neha.verma@novatech.com
+Subject: Action required: SLA breach
+Date: Thu, 06 Feb 2025 16:42:15
+
+Hi Neha,
+
+This is regarding Product20.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Rohit Singh
+CTO

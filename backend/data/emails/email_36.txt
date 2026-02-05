@@ -1,0 +1,13 @@
+From: raj.mehta@novatech.com
+To: arjun.mehta@novatech.com, kamal.das@novatech.com, sunil.dsouza@novatech.com
+Subject: Deployment schedule for SecureID
+Date: Thu, 16 Jan 2025 06:40:15
+
+Hi Arjun,
+
+This is regarding SecureID.
+Please prioritize the tasks for SecureID as discussed in the roadmap meeting.
+
+Thanks,
+Raj Mehta
+Data Analyst

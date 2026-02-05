@@ -1,0 +1,13 @@
+From: divya.malhotra@novatech.com
+To: priya.rao@novatech.com, vikram.das@novatech.com, divya.rao@novatech.com
+Subject: Budget allocation for Product20
+Date: Sun, 15 Dec 2024 00:43:15
+
+Hi Priya,
+
+This is regarding Product20.
+Can you share the logs for the latest deployment of Product20?
+
+Thanks,
+Divya Malhotra
+HR Manager

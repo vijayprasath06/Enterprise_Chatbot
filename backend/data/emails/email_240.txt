@@ -1,0 +1,13 @@
+From: priya.rao@novatech.com
+To: vikram.rao@novatech.com, arjun.saxena@novatech.com
+Subject: Critical bug in Product12 Production
+Date: Fri, 05 Sep 2025 10:58:15
+
+Hi Vikram,
+
+This is regarding Product12.
+Please prioritize the tasks for Product12 as discussed in the roadmap meeting.
+
+Thanks,
+Priya Rao
+CTO

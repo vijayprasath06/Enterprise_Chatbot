@@ -1,0 +1,13 @@
+From: dev.verma@novatech.com
+To: rhea.iyer@novatech.com, sunil.iyer@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Tue, 04 Feb 2025 05:42:15
+
+Hi Rhea,
+
+This is regarding CloudPulse.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Dev Verma
+Finance Manager

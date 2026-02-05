@@ -1,0 +1,13 @@
+From: karan.das@novatech.com
+To: leena.kumar@novatech.com, rita.gupta@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Thu, 23 Oct 2025 12:17:15
+
+Hi Leena,
+
+This is regarding Product18.
+Please prioritize the tasks for Product18 as discussed in the roadmap meeting.
+
+Thanks,
+Karan Das
+Project Manager

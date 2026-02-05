@@ -1,0 +1,13 @@
+From: anita.nair@novatech.com
+To: mark.kapoor@novatech.com, asha.das@novatech.com
+Subject: Deployment schedule for Product18
+Date: Wed, 19 Mar 2025 19:52:15
+
+Hi Mark,
+
+This is regarding Product18.
+Client GlobalMart reported an issue: Authentication failure.
+
+Thanks,
+Anita Nair
+Senior Software Engineer

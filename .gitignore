@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*build/
+*dist/
+*.egg-info/
+*.spec
+
+# Node.js
+node_modules/
+
+# Vector Store
+backend/vector_store.faiss
+
+# OS-specific
+.DS_Store
+
+# Logs
+*.log

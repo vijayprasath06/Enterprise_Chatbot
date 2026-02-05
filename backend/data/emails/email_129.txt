@@ -1,0 +1,13 @@
+From: tara.dsouza@novatech.com
+To: maya.gupta@novatech.com, rhea.joshi@novatech.com
+Subject: On-call rota for next week
+Date: Mon, 03 Nov 2025 04:04:15
+
+Hi Maya,
+
+This is regarding Insight360.
+Please prioritize the tasks for Insight360 as discussed in the roadmap meeting.
+
+Thanks,
+Tara Dsouza
+Finance Manager

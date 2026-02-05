@@ -1,0 +1,13 @@
+From: pooja.das@novatech.com
+To: pooja.malhotra@novatech.com, rita.rao@novatech.com, raj.dsouza@novatech.com
+Subject: Customer complaint escalation: AcmeCorp
+Date: Wed, 01 Oct 2025 05:20:15
+
+Hi Pooja,
+
+This is regarding FlowTrack.
+Client RetailKart reported an issue: Automation trigger not firing.
+
+Thanks,
+Pooja Das
+VP Product

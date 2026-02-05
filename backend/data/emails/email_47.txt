@@ -1,0 +1,13 @@
+From: rita.iyer@novatech.com
+To: tara.pillai@novatech.com
+Subject: On-call rota for next week
+Date: Sun, 15 Jun 2025 07:34:15
+
+Hi Tara,
+
+This is regarding Product18.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Rita Iyer
+CEO

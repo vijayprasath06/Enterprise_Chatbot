@@ -1,0 +1,13 @@
+From: priya.chopra@novatech.com
+To: rohit.kapoor@novatech.com, asha.bose@novatech.com, tara.gupta@novatech.com
+Subject: Budget allocation for NovaPay
+Date: Mon, 16 Jun 2025 05:25:15
+
+Hi Rohit,
+
+This is regarding NovaPay.
+Please prioritize the tasks for NovaPay as discussed in the roadmap meeting.
+
+Thanks,
+Priya Chopra
+Support Lead

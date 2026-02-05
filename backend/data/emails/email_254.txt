@@ -1,0 +1,13 @@
+From: anita.sharma@novatech.com
+To: nikhil.das@novatech.com, arjun.singh@novatech.com
+Subject: Request: Data for Q4 churn analysis
+Date: Tue, 01 Jul 2025 12:36:15
+
+Hi Nikhil,
+
+This is regarding FlowTrack.
+Client AcmeCorp reported an issue: Failed job retries.
+
+Thanks,
+Anita Sharma
+CTO

@@ -1,0 +1,13 @@
+From: nikhil.saxena@novatech.com
+To: priya.gupta@novatech.com, asha.saxena@novatech.com, vikram.malhotra@novatech.com
+Subject: Critical bug in MarketSense Production
+Date: Mon, 20 Oct 2025 21:19:15
+
+Hi Priya,
+
+This is regarding MarketSense.
+Please prioritize the tasks for MarketSense as discussed in the roadmap meeting.
+
+Thanks,
+Nikhil Saxena
+HR Manager

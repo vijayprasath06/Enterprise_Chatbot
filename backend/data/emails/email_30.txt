@@ -1,0 +1,13 @@
+From: leena.joshi@novatech.com
+To: sunil.saxena@novatech.com, karan.pillai@novatech.com
+Subject: Critical bug in HelpDeskPro Production
+Date: Fri, 12 Sep 2025 07:29:15
+
+Hi Sunil,
+
+This is regarding HelpDeskPro.
+Can you share the logs for the latest deployment of HelpDeskPro?
+
+Thanks,
+Leena Joshi
+Sales Executive

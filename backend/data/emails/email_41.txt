@@ -1,0 +1,13 @@
+From: asha.das@novatech.com
+To: sunil.sharma@novatech.com, karan.gupta@novatech.com, rohit.joshi@novatech.com
+Subject: Budget allocation for Product13
+Date: Fri, 21 Mar 2025 06:54:15
+
+Hi Sunil,
+
+This is regarding Product13.
+Please prioritize the tasks for Product13 as discussed in the roadmap meeting.
+
+Thanks,
+Asha Das
+Data Scientist

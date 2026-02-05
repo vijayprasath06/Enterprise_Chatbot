@@ -1,0 +1,13 @@
+From: tara.pillai@novatech.com
+To: arjun.pillai@novatech.com, karan.chopra@novatech.com, priya.kumar@novatech.com
+Subject: Security incident report
+Date: Wed, 18 Jun 2025 07:58:15
+
+Hi Arjun,
+
+This is regarding Product11.
+Can you share the logs for the latest deployment of Product11?
+
+Thanks,
+Tara Pillai
+Data Analyst

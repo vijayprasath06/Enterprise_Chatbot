@@ -1,0 +1,13 @@
+From: dev.saxena@novatech.com
+To: neha.mehta@novatech.com, maya.sharma@novatech.com
+Subject: Budget allocation for Product19
+Date: Sat, 09 Aug 2025 07:01:15
+
+Hi Neha,
+
+This is regarding Product19.
+Please prioritize the tasks for Product19 as discussed in the roadmap meeting.
+
+Thanks,
+Dev Saxena
+Senior Software Engineer

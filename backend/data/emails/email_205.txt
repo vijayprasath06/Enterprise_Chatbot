@@ -1,0 +1,13 @@
+From: rita.pillai@novatech.com
+To: tara.iyer@novatech.com, vikram.iyer@novatech.com
+Subject: Customer complaint escalation: RetailKart
+Date: Sun, 29 Dec 2024 17:46:15
+
+Hi Tara,
+
+This is regarding Product14.
+Please prioritize the tasks for Product14 as discussed in the roadmap meeting.
+
+Thanks,
+Rita Pillai
+Senior Software Engineer

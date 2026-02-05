@@ -1,0 +1,13 @@
+From: rohit.chopra@novatech.com
+To: sneha.joshi@novatech.com
+Subject: Action required: SLA breach
+Date: Mon, 14 Apr 2025 20:01:15
+
+Hi Sneha,
+
+This is regarding Product15.
+Client AcmeCorp reported an issue: Latency spike.
+
+Thanks,
+Rohit Chopra
+Support Lead

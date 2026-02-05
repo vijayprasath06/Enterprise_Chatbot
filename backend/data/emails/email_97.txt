@@ -1,0 +1,13 @@
+From: mark.saxena@novatech.com
+To: isha.reddy@novatech.com
+Subject: Request: Data for Q2 churn analysis
+Date: Sat, 06 Sep 2025 02:11:15
+
+Hi Isha,
+
+This is regarding Product17.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Mark Saxena
+Software Engineer

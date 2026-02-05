@@ -1,0 +1,13 @@
+From: pooja.saxena@novatech.com
+To: raj.pillai@novatech.com, karan.das@novatech.com, anita.kapoor@novatech.com
+Subject: Request: Data for Q2 churn analysis
+Date: Fri, 25 Jul 2025 23:51:15
+
+Hi Raj,
+
+This is regarding MarketSense.
+Can you share the logs for the latest deployment of MarketSense?
+
+Thanks,
+Pooja Saxena
+VP Product

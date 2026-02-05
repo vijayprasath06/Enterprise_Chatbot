@@ -1,0 +1,13 @@
+From: sunil.verma@novatech.com
+To: manish.iyer@novatech.com
+Subject: On-call rota for next week
+Date: Sat, 13 Sep 2025 06:47:15
+
+Hi Manish,
+
+This is regarding HelpDeskPro.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Sunil Verma
+Data Scientist

@@ -1,0 +1,13 @@
+From: divya.rao@novatech.com
+To: rhea.mehta@novatech.com, maya.malhotra@novatech.com
+Subject: Budget allocation for Product12
+Date: Thu, 09 Oct 2025 06:47:15
+
+Hi Rhea,
+
+This is regarding Product12.
+Client RetailKart reported an issue: Automation trigger not firing.
+
+Thanks,
+Divya Rao
+Project Manager

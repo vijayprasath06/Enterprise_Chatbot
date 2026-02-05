@@ -1,0 +1,13 @@
+From: asha.joshi@novatech.com
+To: tara.iyer@novatech.com
+Subject: Security incident report
+Date: Thu, 23 Oct 2025 11:31:15
+
+Hi Tara,
+
+This is regarding Product14.
+Can you share the logs for the latest deployment of Product14?
+
+Thanks,
+Asha Joshi
+Sales Executive

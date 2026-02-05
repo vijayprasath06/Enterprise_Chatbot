@@ -1,0 +1,13 @@
+From: dev.verma@novatech.com
+To: rohit.verma@novatech.com, nikhil.dsouza@novatech.com
+Subject: Request: Data for Q2 churn analysis
+Date: Thu, 27 Mar 2025 11:20:15
+
+Hi Rohit,
+
+This is regarding Product13.
+Please prioritize the tasks for Product13 as discussed in the roadmap meeting.
+
+Thanks,
+Dev Verma
+Finance Manager

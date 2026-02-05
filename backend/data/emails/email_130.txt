@@ -1,0 +1,13 @@
+From: vikram.chopra@novatech.com
+To: isha.mehta@novatech.com, rita.pillai@novatech.com, sneha.kapoor@novatech.com
+Subject: Budget allocation for Product18
+Date: Thu, 22 May 2025 04:00:15
+
+Hi Isha,
+
+This is regarding Product18.
+Can you share the logs for the latest deployment of Product18?
+
+Thanks,
+Vikram Chopra
+CTO

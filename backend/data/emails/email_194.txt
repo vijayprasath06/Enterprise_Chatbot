@@ -1,0 +1,13 @@
+From: rita.saxena@novatech.com
+To: nikhil.iyer@novatech.com, rita.gupta@novatech.com, nikhil.reddy@novatech.com
+Subject: Critical bug in SecureID Production
+Date: Mon, 06 Oct 2025 21:30:15
+
+Hi Nikhil,
+
+This is regarding SecureID.
+Can you share the logs for the latest deployment of SecureID?
+
+Thanks,
+Rita Saxena
+CTO

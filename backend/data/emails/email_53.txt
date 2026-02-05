@@ -1,0 +1,13 @@
+From: pooja.malhotra@novatech.com
+To: priya.kumar@novatech.com, tara.iyer@novatech.com
+Subject: Security incident report
+Date: Sun, 27 Apr 2025 21:37:15
+
+Hi Priya,
+
+This is regarding Product18.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Pooja Malhotra
+CTO

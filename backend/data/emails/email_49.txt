@@ -1,0 +1,13 @@
+From: vikram.saxena@novatech.com
+To: arjun.mehta@novatech.com, karan.kapoor@novatech.com, pooja.nair@novatech.com
+Subject: Deployment schedule for SecureID
+Date: Tue, 21 Jan 2025 16:15:15
+
+Hi Arjun,
+
+This is regarding SecureID.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Vikram Saxena
+Data Analyst

@@ -1,0 +1,13 @@
+From: vikram.sharma@novatech.com
+To: rita.iyer@novatech.com, nikhil.das@novatech.com, manish.malhotra@novatech.com
+Subject: Security incident report
+Date: Mon, 01 Sep 2025 11:52:15
+
+Hi Rita,
+
+This is regarding CloudPulse.
+Can you share the logs for the latest deployment of CloudPulse?
+
+Thanks,
+Vikram Sharma
+Data Scientist

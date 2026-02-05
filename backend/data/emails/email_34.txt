@@ -1,0 +1,13 @@
+From: sunil.verma@novatech.com
+To: sunil.dsouza@novatech.com, vikram.singh@novatech.com
+Subject: Action required: SLA breach
+Date: Mon, 21 Apr 2025 08:33:15
+
+Hi Sunil,
+
+This is regarding Insight360.
+Can you share the logs for the latest deployment of Insight360?
+
+Thanks,
+Sunil Verma
+Data Scientist

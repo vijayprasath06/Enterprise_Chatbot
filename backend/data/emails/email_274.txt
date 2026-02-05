@@ -1,0 +1,13 @@
+From: pooja.das@novatech.com
+To: pooja.dsouza@novatech.com, sunil.mehta@novatech.com
+Subject: Critical bug in Product14 Production
+Date: Fri, 25 Apr 2025 18:00:15
+
+Hi Pooja,
+
+This is regarding Product14.
+Client RetailKart reported an issue: Authentication failure.
+
+Thanks,
+Pooja Das
+VP Product

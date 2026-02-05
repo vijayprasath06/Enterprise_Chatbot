@@ -1,0 +1,13 @@
+From: dev.bose@novatech.com
+To: priya.saxena@novatech.com, rhea.nair@novatech.com, anita.sharma@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Thu, 10 Apr 2025 16:16:15
+
+Hi Priya,
+
+This is regarding Product19.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Dev Bose
+CTO

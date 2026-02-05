@@ -1,0 +1,251 @@
+id,name,designation,department,email
+1,Nikhil Saxena,HR Manager,Product,nikhil.saxena@novatech.com
+2,Arjun Mehta,Senior Software Engineer,Engineering,arjun.mehta@novatech.com
+3,Priya Iyer,HR Manager,Legal,priya.iyer@novatech.com
+4,Asha Saxena,CEO,Sales,asha.saxena@novatech.com
+5,Dev Saxena,Data Scientist,Analytics,dev.saxena@novatech.com
+6,Suresh Malhotra,VP Product,HR,suresh.malhotra@novatech.com
+7,Tara Dsouza,Project Manager,Analytics,tara.dsouza@novatech.com
+8,Divya Pillai,Project Manager,Sales,divya.pillai@novatech.com
+9,Vikram Rao,Senior Software Engineer,Analytics,vikram.rao@novatech.com
+10,Sunil Patel,Data Analyst,Operations,sunil.patel@novatech.com
+11,Pooja Mehta,Finance Manager,Cloud,pooja.mehta@novatech.com
+12,Vikram Singh,Finance Manager,Product,vikram.singh@novatech.com
+13,Rohit Joshi,HR Manager,Finance,rohit.joshi@novatech.com
+14,Priya Rao,CTO,Engineering,priya.rao@novatech.com
+15,Karan Verma,Data Scientist,Product,karan.verma@novatech.com
+16,Vikram Singh,Sales Executive,HR,vikram.singh@novatech.com
+17,Dev Patel,Project Manager,Support,dev.patel@novatech.com
+18,Sunil Sharma,Data Analyst,Security,sunil.sharma@novatech.com
+19,Rita Rao,CTO,Operations,rita.rao@novatech.com
+20,Mark Saxena,Software Engineer,Sales,mark.saxena@novatech.com
+21,Suresh Singh,CTO,HR,suresh.singh@novatech.com
+22,Rita Saxena,CTO,Sales,rita.saxena@novatech.com
+23,Anita Mehta,VP Product,Sales,anita.mehta@novatech.com
+24,Pooja Nair,Data Analyst,Analytics,pooja.nair@novatech.com
+25,Neha Sharma,CEO,Operations,neha.sharma@novatech.com
+26,Anita Sharma,Sales Executive,Security,anita.sharma@novatech.com
+27,Maya Kapoor,Data Analyst,Support,maya.kapoor@novatech.com
+28,Sneha Iyer,Finance Manager,Legal,sneha.iyer@novatech.com
+29,Divya Malhotra,HR Manager,Analytics,divya.malhotra@novatech.com
+30,Maya Patel,Software Engineer,Sales,maya.patel@novatech.com
+31,Kamal Reddy,VP Product,Product,kamal.reddy@novatech.com
+32,Vikram Pillai,Software Engineer,Security,vikram.pillai@novatech.com
+33,Pooja Chopra,Senior Software Engineer,Operations,pooja.chopra@novatech.com
+34,Maya Singh,Sales Executive,Operations,maya.singh@novatech.com
+35,Kamal Gupta,VP Product,Legal,kamal.gupta@novatech.com
+36,Nikhil Das,Finance Manager,Security,nikhil.das@novatech.com
+37,Tara Gupta,Project Manager,Security,tara.gupta@novatech.com
+38,Vikram Verma,Software Engineer,Analytics,vikram.verma@novatech.com
+39,Suresh Kumar,Finance Manager,HR,suresh.kumar@novatech.com
+40,Tara Dsouza,Senior Software Engineer,Legal,tara.dsouza@novatech.com
+41,Dev Verma,Finance Manager,Security,dev.verma@novatech.com
+42,Isha Sharma,Project Manager,Support,isha.sharma@novatech.com
+43,Tara Dsouza,Finance Manager,Legal,tara.dsouza@novatech.com
+44,Asha Joshi,Sales Executive,Finance,asha.joshi@novatech.com
+45,Asha Das,Data Analyst,Finance,asha.das@novatech.com
+46,Karan Mehta,HR Manager,Sales,karan.mehta@novatech.com
+47,Neha Rao,Senior Software Engineer,Cloud,neha.rao@novatech.com
+48,Tara Saxena,Software Engineer,Support,tara.saxena@novatech.com
+49,Nikhil Reddy,Software Engineer,Legal,nikhil.reddy@novatech.com
+50,Divya Bose,Support Lead,Operations,divya.bose@novatech.com
+51,Priya Saxena,CEO,Sales,priya.saxena@novatech.com
+52,Rohit Singh,CTO,Security,rohit.singh@novatech.com
+53,Sunil Kapoor,Sales Executive,Legal,sunil.kapoor@novatech.com
+54,Vikram Iyer,Senior Software Engineer,Sales,vikram.iyer@novatech.com
+55,Anita Kumar,Finance Manager,Operations,anita.kumar@novatech.com
+56,Karan Malhotra,VP Product,Sales,karan.malhotra@novatech.com
+57,Neha Mehta,Senior Software Engineer,Sales,neha.mehta@novatech.com
+58,Raj Nair,Finance Manager,Product,raj.nair@novatech.com
+59,Karan Gupta,Sales Executive,Security,karan.gupta@novatech.com
+60,Priya Saxena,CEO,Support,priya.saxena@novatech.com
+61,Manish Malhotra,Data Scientist,Cloud,manish.malhotra@novatech.com
+62,Pooja Reddy,Data Scientist,Analytics,pooja.reddy@novatech.com
+63,Vikram Das,Support Lead,Security,vikram.das@novatech.com
+64,Sunil Chopra,Sales Executive,Analytics,sunil.chopra@novatech.com
+65,Samir Mehta,CTO,Security,samir.mehta@novatech.com
+66,Dev Das,Support Lead,Engineering,dev.das@novatech.com
+67,Samir Nair,Data Scientist,Product,samir.nair@novatech.com
+68,Priya Sharma,Sales Executive,Legal,priya.sharma@novatech.com
+69,Sneha Chopra,Data Analyst,Support,sneha.chopra@novatech.com
+70,Suresh Iyer,Sales Executive,Product,suresh.iyer@novatech.com
+71,Pooja Saxena,VP Product,Product,pooja.saxena@novatech.com
+72,Dev Saxena,Senior Software Engineer,Engineering,dev.saxena@novatech.com
+73,Tara Iyer,Support Lead,Support,tara.iyer@novatech.com
+74,Leena Reddy,Support Lead,Sales,leena.reddy@novatech.com
+75,Raj Dsouza,VP Product,Analytics,raj.dsouza@novatech.com
+76,Maya Gupta,Data Analyst,Cloud,maya.gupta@novatech.com
+77,Arjun Saxena,CEO,Security,arjun.saxena@novatech.com
+78,Leena Pillai,Data Analyst,Sales,leena.pillai@novatech.com
+79,Priya Mehta,CEO,Operations,priya.mehta@novatech.com
+80,Rhea Mehta,VP Product,Finance,rhea.mehta@novatech.com
+81,Raj Malhotra,Finance Manager,Cloud,raj.malhotra@novatech.com
+82,Kamal Dsouza,Finance Manager,Engineering,kamal.dsouza@novatech.com
+83,Neha Dsouza,HR Manager,Product,neha.dsouza@novatech.com
+84,Neha Iyer,Senior Software Engineer,Analytics,neha.iyer@novatech.com
+85,Manish Iyer,HR Manager,Operations,manish.iyer@novatech.com
+86,Raj Joshi,Support Lead,Product,raj.joshi@novatech.com
+87,Nikhil Malhotra,Finance Manager,Operations,nikhil.malhotra@novatech.com
+88,Anita Gupta,CTO,Sales,anita.gupta@novatech.com
+89,Rita Nair,Data Analyst,Sales,rita.nair@novatech.com
+90,Maya Pillai,CTO,Security,maya.pillai@novatech.com
+91,Rohit Kapoor,Senior Software Engineer,Finance,rohit.kapoor@novatech.com
+92,Asha Kapoor,HR Manager,Operations,asha.kapoor@novatech.com
+93,Vikram Rao,Data Scientist,Legal,vikram.rao@novatech.com
+94,Kamal Gupta,Project Manager,Support,kamal.gupta@novatech.com
+95,Neha Iyer,Data Analyst,Finance,neha.iyer@novatech.com
+96,Mark Kapoor,CEO,Legal,mark.kapoor@novatech.com
+97,Rohit Joshi,Finance Manager,Security,rohit.joshi@novatech.com
+98,Asha Saxena,CTO,HR,asha.saxena@novatech.com
+99,Vikram Pillai,Senior Software Engineer,HR,vikram.pillai@novatech.com
+100,Vikram Saxena,Data Analyst,Support,vikram.saxena@novatech.com
+101,Rohit Joshi,CEO,Sales,rohit.joshi@novatech.com
+102,Anita Sharma,CTO,Security,anita.sharma@novatech.com
+103,Divya Bose,Data Analyst,Cloud,divya.bose@novatech.com
+104,Raj Rao,Support Lead,Security,raj.rao@novatech.com
+105,Divya Mehta,Project Manager,Engineering,divya.mehta@novatech.com
+106,Tara Pillai,Data Analyst,Security,tara.pillai@novatech.com
+107,Mark Kapoor,CEO,Legal,mark.kapoor@novatech.com
+108,Arjun Saxena,Senior Software Engineer,Engineering,arjun.saxena@novatech.com
+109,Neha Pillai,VP Product,Legal,neha.pillai@novatech.com
+110,Sunil Malhotra,Software Engineer,Legal,sunil.malhotra@novatech.com
+111,Arjun Pillai,Data Analyst,Engineering,arjun.pillai@novatech.com
+112,Sunil Mehta,Data Scientist,Finance,sunil.mehta@novatech.com
+113,Nikhil Iyer,Senior Software Engineer,Security,nikhil.iyer@novatech.com
+114,Sunil Saxena,HR Manager,Analytics,sunil.saxena@novatech.com
+115,Samir Pillai,Software Engineer,Sales,samir.pillai@novatech.com
+116,Pooja Dsouza,VP Product,Analytics,pooja.dsouza@novatech.com
+117,Mark Nair,CTO,Analytics,mark.nair@novatech.com
+118,Samir Iyer,Software Engineer,HR,samir.iyer@novatech.com
+119,Pooja Das,VP Product,Analytics,pooja.das@novatech.com
+120,Leena Iyer,Sales Executive,Sales,leena.iyer@novatech.com
+121,Sunil Verma,Data Scientist,Sales,sunil.verma@novatech.com
+122,Asha Sharma,Project Manager,Analytics,asha.sharma@novatech.com
+123,Divya Rao,Project Manager,HR,divya.rao@novatech.com
+124,Dev Bose,CTO,Analytics,dev.bose@novatech.com
+125,Rhea Nair,Senior Software Engineer,Engineering,rhea.nair@novatech.com
+126,Divya Dsouza,Data Analyst,Operations,divya.dsouza@novatech.com
+127,Raj Das,Support Lead,Operations,raj.das@novatech.com
+128,Sunil Nair,HR Manager,Analytics,sunil.nair@novatech.com
+129,Kamal Das,HR Manager,Analytics,kamal.das@novatech.com
+130,Priya Gupta,CEO,Engineering,priya.gupta@novatech.com
+131,Arjun Kumar,Finance Manager,Legal,arjun.kumar@novatech.com
+132,Nikhil Sharma,Support Lead,Finance,nikhil.sharma@novatech.com
+133,Neha Nair,Project Manager,Operations,neha.nair@novatech.com
+134,Nikhil Das,Finance Manager,HR,nikhil.das@novatech.com
+135,Rohit Chopra,Support Lead,Finance,rohit.chopra@novatech.com
+136,Rita Verma,Software Engineer,Legal,rita.verma@novatech.com
+137,Priya Chopra,Support Lead,Security,priya.chopra@novatech.com
+138,Nikhil Dsouza,HR Manager,Operations,nikhil.dsouza@novatech.com
+139,Rohit Singh,VP Product,Legal,rohit.singh@novatech.com
+140,Rohit Verma,Support Lead,Sales,rohit.verma@novatech.com
+141,Pooja Malhotra,CTO,Operations,pooja.malhotra@novatech.com
+142,Anita Kapoor,Sales Executive,Cloud,anita.kapoor@novatech.com
+143,Nikhil Sharma,Sales Executive,Legal,nikhil.sharma@novatech.com
+144,Pooja Dsouza,Senior Software Engineer,Security,pooja.dsouza@novatech.com
+145,Rohit Bose,CTO,Security,rohit.bose@novatech.com
+146,Isha Nair,Data Scientist,Product,isha.nair@novatech.com
+147,Nikhil Verma,Data Scientist,Sales,nikhil.verma@novatech.com
+148,Sneha Kumar,Data Scientist,Engineering,sneha.kumar@novatech.com
+149,Leena Joshi,Sales Executive,Product,leena.joshi@novatech.com
+150,Arjun Malhotra,CEO,Sales,arjun.malhotra@novatech.com
+151,Rita Singh,Support Lead,Cloud,rita.singh@novatech.com
+152,Karan Pillai,CEO,Security,karan.pillai@novatech.com
+153,Asha Das,Data Scientist,Analytics,asha.das@novatech.com
+154,Mark Bose,VP Product,Cloud,mark.bose@novatech.com
+155,Rhea Iyer,Sales Executive,Product,rhea.iyer@novatech.com
+156,Sneha Kapoor,Finance Manager,Security,sneha.kapoor@novatech.com
+157,Rhea Joshi,Sales Executive,Finance,rhea.joshi@novatech.com
+158,Isha Bose,Finance Manager,Analytics,isha.bose@novatech.com
+159,Suresh Dsouza,Sales Executive,Cloud,suresh.dsouza@novatech.com
+160,Divya Iyer,Data Analyst,Security,divya.iyer@novatech.com
+161,Tara Bose,CTO,Cloud,tara.bose@novatech.com
+162,Karan Gupta,Senior Software Engineer,Cloud,karan.gupta@novatech.com
+163,Rita Verma,Data Analyst,Sales,rita.verma@novatech.com
+164,Anita Nair,Senior Software Engineer,Legal,anita.nair@novatech.com
+165,Sneha Pillai,Support Lead,Sales,sneha.pillai@novatech.com
+166,Rita Pillai,Senior Software Engineer,Sales,rita.pillai@novatech.com
+167,Arjun Chopra,Finance Manager,Finance,arjun.chopra@novatech.com
+168,Suresh Chopra,Data Scientist,Engineering,suresh.chopra@novatech.com
+169,Arjun Singh,CEO,Operations,arjun.singh@novatech.com
+170,Asha Malhotra,Sales Executive,Analytics,asha.malhotra@novatech.com
+171,Asha Patel,Support Lead,HR,asha.patel@novatech.com
+172,Arjun Saxena,HR Manager,Legal,arjun.saxena@novatech.com
+173,Karan Reddy,Data Analyst,Sales,karan.reddy@novatech.com
+174,Arjun Reddy,Support Lead,Engineering,arjun.reddy@novatech.com
+175,Anita Singh,Sales Executive,Support,anita.singh@novatech.com
+176,Sneha Joshi,VP Product,Legal,sneha.joshi@novatech.com
+177,Maya Malhotra,CTO,Operations,maya.malhotra@novatech.com
+178,Asha Rao,Support Lead,Security,asha.rao@novatech.com
+179,Sneha Kapoor,VP Product,Support,sneha.kapoor@novatech.com
+180,Divya Singh,Data Scientist,Finance,divya.singh@novatech.com
+181,Suresh Nair,Support Lead,Finance,suresh.nair@novatech.com
+182,Divya Chopra,Senior Software Engineer,HR,divya.chopra@novatech.com
+183,Leena Kumar,VP Product,Legal,leena.kumar@novatech.com
+184,Sunil Iyer,Senior Software Engineer,Security,sunil.iyer@novatech.com
+185,Tara Mehta,Data Scientist,Engineering,tara.mehta@novatech.com
+186,Priya Kumar,Software Engineer,Operations,priya.kumar@novatech.com
+187,Karan Pillai,CTO,Cloud,karan.pillai@novatech.com
+188,Vikram Malhotra,Sales Executive,Sales,vikram.malhotra@novatech.com
+189,Rita Gupta,Software Engineer,Finance,rita.gupta@novatech.com
+190,Isha Joshi,Software Engineer,Product,isha.joshi@novatech.com
+191,Rohit Das,VP Product,Operations,rohit.das@novatech.com
+192,Rohit Malhotra,Support Lead,Security,rohit.malhotra@novatech.com
+193,Maya Sharma,HR Manager,Product,maya.sharma@novatech.com
+194,Rita Iyer,CEO,Product,rita.iyer@novatech.com
+195,Tara Verma,HR Manager,Security,tara.verma@novatech.com
+196,Pooja Das,VP Product,Operations,pooja.das@novatech.com
+197,Sunil Saxena,CTO,Analytics,sunil.saxena@novatech.com
+198,Sunil Rao,CTO,Legal,sunil.rao@novatech.com
+199,Anita Kumar,Sales Executive,Analytics,anita.kumar@novatech.com
+200,Vikram Chopra,CTO,Finance,vikram.chopra@novatech.com
+201,Suresh Pillai,Software Engineer,Analytics,suresh.pillai@novatech.com
+202,Samir Bose,Data Analyst,Security,samir.bose@novatech.com
+203,Isha Saxena,Sales Executive,Cloud,isha.saxena@novatech.com
+204,Arjun Malhotra,Project Manager,HR,arjun.malhotra@novatech.com
+205,Karan Rao,Sales Executive,HR,karan.rao@novatech.com
+206,Karan Kapoor,HR Manager,Operations,karan.kapoor@novatech.com
+207,Nikhil Singh,VP Product,Finance,nikhil.singh@novatech.com
+208,Leena Nair,Sales Executive,Support,leena.nair@novatech.com
+209,Priya Patel,Project Manager,HR,priya.patel@novatech.com
+210,Divya Joshi,Finance Manager,HR,divya.joshi@novatech.com
+211,Asha Bose,Senior Software Engineer,Sales,asha.bose@novatech.com
+212,Karan Chopra,Finance Manager,Cloud,karan.chopra@novatech.com
+213,Tara Iyer,CTO,Cloud,tara.iyer@novatech.com
+214,Rita Reddy,VP Product,Cloud,rita.reddy@novatech.com
+215,Neha Verma,Support Lead,Sales,neha.verma@novatech.com
+216,Rita Iyer,CTO,HR,rita.iyer@novatech.com
+217,Manish Patel,Finance Manager,Cloud,manish.patel@novatech.com
+218,Kamal Patel,CEO,Analytics,kamal.patel@novatech.com
+219,Rhea Nair,CEO,Finance,rhea.nair@novatech.com
+220,Suresh Gupta,Data Analyst,HR,suresh.gupta@novatech.com
+221,Karan Das,Project Manager,Sales,karan.das@novatech.com
+222,Vikram Saxena,Data Scientist,Support,vikram.saxena@novatech.com
+223,Priya Reddy,CEO,HR,priya.reddy@novatech.com
+224,Manish Bose,Data Analyst,Operations,manish.bose@novatech.com
+225,Vikram Sharma,Data Scientist,HR,vikram.sharma@novatech.com
+226,Sunil Dsouza,VP Product,HR,sunil.dsouza@novatech.com
+227,Rita Saxena,Data Analyst,Support,rita.saxena@novatech.com
+228,Raj Mehta,Data Analyst,Legal,raj.mehta@novatech.com
+229,Rita Pillai,Sales Executive,Security,rita.pillai@novatech.com
+230,Vikram Kumar,Data Analyst,Operations,vikram.kumar@novatech.com
+231,Leena Reddy,Project Manager,Cloud,leena.reddy@novatech.com
+232,Mark Mehta,Sales Executive,HR,mark.mehta@novatech.com
+233,Vikram Rao,Sales Executive,Analytics,vikram.rao@novatech.com
+234,Neha Malhotra,CTO,Security,neha.malhotra@novatech.com
+235,Raj Pillai,HR Manager,Support,raj.pillai@novatech.com
+236,Rohit Rao,Senior Software Engineer,Sales,rohit.rao@novatech.com
+237,Rhea Chopra,HR Manager,Operations,rhea.chopra@novatech.com
+238,Pooja Joshi,Finance Manager,Sales,pooja.joshi@novatech.com
+239,Maya Kapoor,Data Analyst,Cloud,maya.kapoor@novatech.com
+240,Manish Chopra,HR Manager,HR,manish.chopra@novatech.com
+241,Isha Mehta,CEO,Operations,isha.mehta@novatech.com
+242,Vikram Sharma,Data Scientist,Security,vikram.sharma@novatech.com
+243,Divya Rao,Data Scientist,Support,divya.rao@novatech.com
+244,Mark Saxena,Software Engineer,Product,mark.saxena@novatech.com
+245,Asha Chopra,CEO,Cloud,asha.chopra@novatech.com
+246,Isha Reddy,VP Product,HR,isha.reddy@novatech.com
+247,Karan Verma,CEO,HR,karan.verma@novatech.com
+248,Suresh Rao,Data Scientist,Security,suresh.rao@novatech.com
+249,Divya Malhotra,Data Scientist,Security,divya.malhotra@novatech.com
+250,Arjun Das,Data Scientist,Legal,arjun.das@novatech.com

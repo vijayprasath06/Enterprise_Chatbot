@@ -1,0 +1,13 @@
+From: sneha.joshi@novatech.com
+To: asha.kapoor@novatech.com
+Subject: Deployment schedule for FlowTrack
+Date: Sun, 07 Dec 2025 10:22:15
+
+Hi Asha,
+
+This is regarding FlowTrack.
+Can you share the logs for the latest deployment of FlowTrack?
+
+Thanks,
+Sneha Joshi
+VP Product

@@ -1,0 +1,13 @@
+From: rita.reddy@novatech.com
+To: karan.mehta@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Sat, 15 Mar 2025 17:01:15
+
+Hi Karan,
+
+This is regarding Insight360.
+Can you share the logs for the latest deployment of Insight360?
+
+Thanks,
+Rita Reddy
+VP Product

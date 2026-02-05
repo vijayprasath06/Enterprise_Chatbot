@@ -1,0 +1,13 @@
+From: nikhil.malhotra@novatech.com
+To: sunil.sharma@novatech.com, isha.nair@novatech.com
+Subject: Deployment schedule for Product17
+Date: Mon, 02 Jun 2025 16:40:15
+
+Hi Sunil,
+
+This is regarding Product17.
+Can you share the logs for the latest deployment of Product17?
+
+Thanks,
+Nikhil Malhotra
+Finance Manager

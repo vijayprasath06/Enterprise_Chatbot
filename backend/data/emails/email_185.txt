@@ -1,0 +1,13 @@
+From: isha.mehta@novatech.com
+To: arjun.singh@novatech.com, rita.pillai@novatech.com, rita.reddy@novatech.com
+Subject: Security incident report
+Date: Thu, 04 Dec 2025 17:04:15
+
+Hi Arjun,
+
+This is regarding HelpDeskPro.
+Can you share the logs for the latest deployment of HelpDeskPro?
+
+Thanks,
+Isha Mehta
+CEO

@@ -1,0 +1,13 @@
+From: karan.mehta@novatech.com
+To: sunil.nair@novatech.com, kamal.gupta@novatech.com
+Subject: On-call rota for next week
+Date: Wed, 13 Aug 2025 23:15:15
+
+Hi Sunil,
+
+This is regarding Product17.
+Can you share the logs for the latest deployment of Product17?
+
+Thanks,
+Karan Mehta
+HR Manager

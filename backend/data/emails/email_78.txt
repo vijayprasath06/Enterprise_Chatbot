@@ -1,0 +1,13 @@
+From: priya.iyer@novatech.com
+To: karan.rao@novatech.com, raj.dsouza@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Sun, 14 Sep 2025 01:11:15
+
+Hi Karan,
+
+This is regarding Product20.
+Can you share the logs for the latest deployment of Product20?
+
+Thanks,
+Priya Iyer
+HR Manager

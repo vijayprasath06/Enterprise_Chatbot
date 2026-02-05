@@ -1,0 +1,13 @@
+From: nikhil.reddy@novatech.com
+To: suresh.malhotra@novatech.com
+Subject: On-call rota for next week
+Date: Sun, 06 Jul 2025 08:20:15
+
+Hi Suresh,
+
+This is regarding EdgeCompute.
+Can you share the logs for the latest deployment of EdgeCompute?
+
+Thanks,
+Nikhil Reddy
+Software Engineer

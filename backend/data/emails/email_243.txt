@@ -1,0 +1,13 @@
+From: tara.dsouza@novatech.com
+To: neha.mehta@novatech.com, tara.iyer@novatech.com, nikhil.reddy@novatech.com
+Subject: Security incident report
+Date: Wed, 09 Jul 2025 04:57:15
+
+Hi Neha,
+
+This is regarding Product18.
+Client AcmeCorp reported an issue: Dashboard loading slow.
+
+Thanks,
+Tara Dsouza
+Senior Software Engineer

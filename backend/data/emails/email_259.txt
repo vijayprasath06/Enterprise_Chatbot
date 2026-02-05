@@ -1,0 +1,13 @@
+From: sunil.saxena@novatech.com
+To: isha.saxena@novatech.com, leena.iyer@novatech.com
+Subject: Customer complaint escalation: EduTech
+Date: Sat, 16 Aug 2025 06:15:15
+
+Hi Isha,
+
+This is regarding HelpDeskPro.
+Client FinServ Ltd reported an issue: Incorrect invoice amount.
+
+Thanks,
+Sunil Saxena
+CTO

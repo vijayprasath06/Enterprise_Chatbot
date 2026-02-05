@@ -1,0 +1,13 @@
+From: karan.gupta@novatech.com
+To: mark.kapoor@novatech.com, divya.malhotra@novatech.com
+Subject: Critical bug in PayBridge Production
+Date: Fri, 02 May 2025 04:09:15
+
+Hi Mark,
+
+This is regarding PayBridge.
+Please prioritize the tasks for PayBridge as discussed in the roadmap meeting.
+
+Thanks,
+Karan Gupta
+Sales Executive

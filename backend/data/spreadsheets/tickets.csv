@@ -1,0 +1,801 @@
+ticket_id,customer,product,issue,assigned_to,status
+1001,EduTech,SecureID,Authentication failure,karan.chopra@novatech.com,Open
+1002,AcmeCorp,MarketSense,Authentication failure,asha.das@novatech.com,Closed
+1003,FinServ Ltd,PayBridge,Data sync issue,vikram.pillai@novatech.com,In Progress
+1004,RetailKart,Product13,Authentication failure,kamal.das@novatech.com,In Progress
+1005,GlobalMart,FlowTrack,Latency spike,pooja.mehta@novatech.com,Resolved
+1006,EduTech,Product11,Latency spike,samir.mehta@novatech.com,Open
+1007,BlueLine Inc,Product19,Latency spike,mark.saxena@novatech.com,Open
+1008,HealthPlus,AutoDocs,Latency spike,pooja.mehta@novatech.com,Closed
+1009,BlueLine Inc,Product16,Permission denied,arjun.chopra@novatech.com,In Progress
+1010,RetailKart,MarketSense,Latency spike,sunil.mehta@novatech.com,Closed
+1011,GlobalMart,FlowTrack,Data sync issue,maya.pillai@novatech.com,In Progress
+1012,RetailKart,CloudPulse,Automation trigger not firing,manish.iyer@novatech.com,In Progress
+1013,GlobalMart,PayBridge,Memory leak on service,vikram.sharma@novatech.com,In Progress
+1014,HealthPlus,Product18,Payment failure during peak hours,mark.nair@novatech.com,Open
+1015,RetailKart,Product11,Dashboard loading slow,divya.malhotra@novatech.com,Closed
+1016,HealthPlus,Product17,Payment failure during peak hours,arjun.singh@novatech.com,Resolved
+1017,GlobalMart,Product14,Payment failure during peak hours,nikhil.reddy@novatech.com,In Progress
+1018,FinServ Ltd,Product16,Memory leak on service,sunil.saxena@novatech.com,Closed
+1019,BlueLine Inc,AutoDocs,Permission denied,maya.singh@novatech.com,Resolved
+1020,GlobalMart,Product16,Dashboard loading slow,divya.pillai@novatech.com,Awaiting Customer
+1021,FinServ Ltd,EdgeCompute,Failed job retries,dev.verma@novatech.com,In Progress
+1022,AcmeCorp,Product18,Refund not processed,pooja.nair@novatech.com,Open
+1023,HealthPlus,CloudPulse,Data sync issue,divya.rao@novatech.com,Open
+1024,HealthPlus,SecureID,Data sync issue,maya.kapoor@novatech.com,Closed
+1025,FinServ Ltd,AutoDocs,Refund not processed,rita.reddy@novatech.com,In Progress
+1026,GlobalMart,EdgeCompute,Data sync issue,anita.kapoor@novatech.com,Open
+1027,BlueLine Inc,Product20,Permission denied,rohit.malhotra@novatech.com,Resolved
+1028,HealthPlus,FlowTrack,Authentication failure,sunil.rao@novatech.com,Closed
+1029,GlobalMart,Product11,Permission denied,sneha.chopra@novatech.com,Resolved
+1030,RetailKart,PayBridge,Latency spike,leena.joshi@novatech.com,Awaiting Customer
+1031,GlobalMart,SecureID,Data sync issue,nikhil.dsouza@novatech.com,In Progress
+1032,RetailKart,Product18,Permission denied,rohit.joshi@novatech.com,In Progress
+1033,RetailKart,HelpDeskPro,Failed job retries,pooja.reddy@novatech.com,Closed
+1034,BlueLine Inc,Product14,Payment failure during peak hours,kamal.dsouza@novatech.com,Closed
+1035,EduTech,Product13,Refund not processed,asha.malhotra@novatech.com,Closed
+1036,EduTech,SecureID,Data sync issue,karan.verma@novatech.com,Open
+1037,FinServ Ltd,Product19,Incorrect invoice amount,priya.reddy@novatech.com,Open
+1038,HealthPlus,Product15,Dashboard loading slow,rohit.chopra@novatech.com,Resolved
+1039,AcmeCorp,SecureID,Refund not processed,priya.reddy@novatech.com,Closed
+1040,BlueLine Inc,FlowTrack,Data sync issue,suresh.pillai@novatech.com,Awaiting Customer
+1041,RetailKart,Product20,Failed job retries,anita.sharma@novatech.com,Closed
+1042,HealthPlus,Product11,Memory leak on service,suresh.gupta@novatech.com,In Progress
+1043,RetailKart,Product16,Permission denied,sunil.patel@novatech.com,Closed
+1044,BlueLine Inc,PayBridge,API timeout,rohit.malhotra@novatech.com,Open
+1045,AcmeCorp,CloudPulse,Data sync issue,tara.dsouza@novatech.com,Closed
+1046,AcmeCorp,Insight360,Incorrect invoice amount,arjun.malhotra@novatech.com,Open
+1047,RetailKart,Product12,Refund not processed,vikram.verma@novatech.com,Open
+1048,GlobalMart,Product19,Memory leak on service,isha.saxena@novatech.com,Open
+1049,BlueLine Inc,FlowTrack,Latency spike,priya.reddy@novatech.com,In Progress
+1050,EduTech,EdgeCompute,Data sync issue,neha.malhotra@novatech.com,Closed
+1051,BlueLine Inc,Product15,Memory leak on service,dev.das@novatech.com,In Progress
+1052,EduTech,NovaPay,Data sync issue,leena.reddy@novatech.com,Open
+1053,FinServ Ltd,MarketSense,Dashboard loading slow,sunil.saxena@novatech.com,Resolved
+1054,FinServ Ltd,PayBridge,Memory leak on service,karan.verma@novatech.com,In Progress
+1055,RetailKart,Product15,Authentication failure,priya.saxena@novatech.com,Awaiting Customer
+1056,HealthPlus,Product16,Dashboard loading slow,manish.malhotra@novatech.com,In Progress
+1057,RetailKart,Product19,Authentication failure,divya.singh@novatech.com,Open
+1058,HealthPlus,Product13,Authentication failure,priya.iyer@novatech.com,Closed
+1059,EduTech,Insight360,Latency spike,rohit.das@novatech.com,In Progress
+1060,RetailKart,EdgeCompute,Latency spike,karan.kapoor@novatech.com,In Progress
+1061,EduTech,HelpDeskPro,Latency spike,samir.mehta@novatech.com,Closed
+1062,EduTech,SecureID,Memory leak on service,neha.sharma@novatech.com,Resolved
+1063,EduTech,Insight360,Authentication failure,samir.bose@novatech.com,In Progress
+1064,FinServ Ltd,Product12,Failed job retries,maya.singh@novatech.com,Open
+1065,RetailKart,Product11,Failed job retries,mark.kapoor@novatech.com,Open
+1066,BlueLine Inc,Product18,Incorrect invoice amount,rita.verma@novatech.com,In Progress
+1067,RetailKart,MarketSense,Authentication failure,neha.malhotra@novatech.com,Resolved
+1068,GlobalMart,PayBridge,Failed job retries,priya.reddy@novatech.com,In Progress
+1069,AcmeCorp,Product15,Dashboard loading slow,tara.gupta@novatech.com,Closed
+1070,BlueLine Inc,Product13,Permission denied,kamal.gupta@novatech.com,Open
+1071,GlobalMart,NovaPay,Authentication failure,nikhil.dsouza@novatech.com,Open
+1072,RetailKart,AutoDocs,Latency spike,asha.saxena@novatech.com,Resolved
+1073,RetailKart,CloudPulse,Memory leak on service,priya.saxena@novatech.com,In Progress
+1074,FinServ Ltd,Product18,Incorrect invoice amount,raj.pillai@novatech.com,Closed
+1075,EduTech,FlowTrack,Memory leak on service,asha.bose@novatech.com,In Progress
+1076,EduTech,PayBridge,Memory leak on service,divya.mehta@novatech.com,Open
+1077,AcmeCorp,Insight360,Authentication failure,raj.das@novatech.com,Open
+1078,BlueLine Inc,Product18,Automation trigger not firing,vikram.saxena@novatech.com,In Progress
+1079,EduTech,Product18,Refund not processed,rita.singh@novatech.com,Closed
+1080,BlueLine Inc,Product14,Memory leak on service,anita.sharma@novatech.com,Resolved
+1081,FinServ Ltd,Product14,Authentication failure,vikram.rao@novatech.com,Closed
+1082,BlueLine Inc,Product15,Data sync issue,mark.saxena@novatech.com,Open
+1083,RetailKart,CloudPulse,Memory leak on service,neha.iyer@novatech.com,In Progress
+1084,EduTech,Product12,Payment failure during peak hours,anita.sharma@novatech.com,Open
+1085,AcmeCorp,Product15,Dashboard loading slow,asha.malhotra@novatech.com,Open
+1086,EduTech,Product20,Payment failure during peak hours,rohit.joshi@novatech.com,Closed
+1087,BlueLine Inc,SecureID,Latency spike,sunil.kapoor@novatech.com,Open
+1088,HealthPlus,Product18,API timeout,rita.singh@novatech.com,Open
+1089,HealthPlus,EdgeCompute,Incorrect invoice amount,anita.kumar@novatech.com,Open
+1090,FinServ Ltd,NovaPay,Authentication failure,suresh.gupta@novatech.com,Awaiting Customer
+1091,BlueLine Inc,Product18,Authentication failure,karan.rao@novatech.com,Open
+1092,EduTech,NovaPay,Automation trigger not firing,asha.saxena@novatech.com,In Progress
+1093,HealthPlus,EdgeCompute,Latency spike,neha.dsouza@novatech.com,Open
+1094,RetailKart,Insight360,Automation trigger not firing,isha.joshi@novatech.com,In Progress
+1095,AcmeCorp,FlowTrack,Data sync issue,samir.pillai@novatech.com,Closed
+1096,FinServ Ltd,Product19,Dashboard loading slow,pooja.dsouza@novatech.com,In Progress
+1097,FinServ Ltd,Insight360,Failed job retries,suresh.pillai@novatech.com,Resolved
+1098,EduTech,Product17,Authentication failure,samir.iyer@novatech.com,Closed
+1099,AcmeCorp,Insight360,Data sync issue,manish.patel@novatech.com,In Progress
+1100,EduTech,CloudPulse,Data sync issue,leena.kumar@novatech.com,Resolved
+1101,AcmeCorp,FlowTrack,Incorrect invoice amount,sneha.kapoor@novatech.com,Open
+1102,BlueLine Inc,AutoDocs,Latency spike,rita.verma@novatech.com,Closed
+1103,EduTech,Product11,Refund not processed,asha.das@novatech.com,In Progress
+1104,GlobalMart,Product17,Latency spike,arjun.pillai@novatech.com,Open
+1105,EduTech,CloudPulse,Memory leak on service,arjun.chopra@novatech.com,Resolved
+1106,FinServ Ltd,HelpDeskPro,Refund not processed,pooja.dsouza@novatech.com,Resolved
+1107,GlobalMart,Product11,Data sync issue,divya.bose@novatech.com,In Progress
+1108,AcmeCorp,Product11,Refund not processed,raj.malhotra@novatech.com,Closed
+1109,RetailKart,SecureID,Memory leak on service,rhea.chopra@novatech.com,In Progress
+1110,AcmeCorp,FlowTrack,Dashboard loading slow,arjun.pillai@novatech.com,Open
+1111,EduTech,Product12,Automation trigger not firing,nikhil.sharma@novatech.com,Open
+1112,FinServ Ltd,Product18,Incorrect invoice amount,arjun.saxena@novatech.com,Open
+1113,RetailKart,Product14,Failed job retries,priya.rao@novatech.com,Awaiting Customer
+1114,FinServ Ltd,PayBridge,Incorrect invoice amount,maya.kapoor@novatech.com,Closed
+1115,BlueLine Inc,SecureID,Memory leak on service,dev.bose@novatech.com,Open
+1116,AcmeCorp,Product12,Permission denied,neha.iyer@novatech.com,Open
+1117,RetailKart,Product19,API timeout,nikhil.singh@novatech.com,In Progress
+1118,FinServ Ltd,Product20,Latency spike,karan.reddy@novatech.com,Closed
+1119,AcmeCorp,Product20,Memory leak on service,tara.iyer@novatech.com,Closed
+1120,AcmeCorp,MarketSense,Authentication failure,divya.singh@novatech.com,Closed
+1121,RetailKart,Product12,Payment failure during peak hours,neha.rao@novatech.com,Resolved
+1122,FinServ Ltd,Product13,Dashboard loading slow,tara.gupta@novatech.com,Closed
+1123,AcmeCorp,FlowTrack,Failed job retries,rita.verma@novatech.com,Open
+1124,GlobalMart,Product15,Incorrect invoice amount,dev.verma@novatech.com,In Progress
+1125,EduTech,Product11,Latency spike,asha.das@novatech.com,Open
+1126,AcmeCorp,SecureID,Automation trigger not firing,rita.iyer@novatech.com,Closed
+1127,EduTech,FlowTrack,Authentication failure,sunil.saxena@novatech.com,Closed
+1128,GlobalMart,Product20,Data sync issue,mark.kapoor@novatech.com,Open
+1129,HealthPlus,Product17,Dashboard loading slow,rita.nair@novatech.com,In Progress
+1130,RetailKart,Product19,Data sync issue,rohit.chopra@novatech.com,Closed
+1131,AcmeCorp,EdgeCompute,Refund not processed,mark.bose@novatech.com,Open
+1132,BlueLine Inc,PayBridge,API timeout,sunil.saxena@novatech.com,Open
+1133,RetailKart,PayBridge,Incorrect invoice amount,kamal.reddy@novatech.com,Open
+1134,EduTech,Product14,Automation trigger not firing,maya.singh@novatech.com,In Progress
+1135,EduTech,EdgeCompute,Permission denied,pooja.dsouza@novatech.com,Resolved
+1136,HealthPlus,Product12,Dashboard loading slow,anita.sharma@novatech.com,Resolved
+1137,AcmeCorp,Product14,Payment failure during peak hours,samir.iyer@novatech.com,Resolved
+1138,HealthPlus,Product11,Latency spike,sunil.malhotra@novatech.com,Closed
+1139,EduTech,Product14,Authentication failure,maya.patel@novatech.com,In Progress
+1140,RetailKart,MarketSense,Latency spike,samir.iyer@novatech.com,Resolved
+1141,RetailKart,FlowTrack,Refund not processed,manish.patel@novatech.com,Open
+1142,GlobalMart,Product19,Refund not processed,rohit.chopra@novatech.com,Open
+1143,HealthPlus,PayBridge,Failed job retries,nikhil.malhotra@novatech.com,Open
+1144,HealthPlus,MarketSense,Dashboard loading slow,arjun.kumar@novatech.com,Closed
+1145,FinServ Ltd,Product17,API timeout,mark.mehta@novatech.com,Closed
+1146,RetailKart,SecureID,API timeout,maya.kapoor@novatech.com,Open
+1147,BlueLine Inc,MarketSense,Latency spike,tara.dsouza@novatech.com,Closed
+1148,EduTech,FlowTrack,Automation trigger not firing,mark.saxena@novatech.com,Closed
+1149,GlobalMart,Product15,Latency spike,tara.verma@novatech.com,Closed
+1150,EduTech,Product19,Memory leak on service,rita.verma@novatech.com,Awaiting Customer
+1151,RetailKart,Product11,Automation trigger not firing,nikhil.iyer@novatech.com,Open
+1152,GlobalMart,PayBridge,Authentication failure,karan.pillai@novatech.com,Open
+1153,FinServ Ltd,FlowTrack,Authentication failure,pooja.das@novatech.com,In Progress
+1154,AcmeCorp,Product12,Authentication failure,mark.saxena@novatech.com,Closed
+1155,HealthPlus,FlowTrack,Latency spike,asha.das@novatech.com,In Progress
+1156,GlobalMart,Product19,Permission denied,asha.chopra@novatech.com,Closed
+1157,AcmeCorp,Product15,Latency spike,arjun.chopra@novatech.com,Open
+1158,FinServ Ltd,Product16,Permission denied,suresh.kumar@novatech.com,Awaiting Customer
+1159,GlobalMart,CloudPulse,Incorrect invoice amount,leena.kumar@novatech.com,Open
+1160,EduTech,MarketSense,Payment failure during peak hours,sunil.chopra@novatech.com,Closed
+1161,GlobalMart,Product17,Permission denied,rhea.joshi@novatech.com,Open
+1162,RetailKart,PayBridge,Refund not processed,divya.mehta@novatech.com,Closed
+1163,EduTech,Product20,Payment failure during peak hours,isha.saxena@novatech.com,Closed
+1164,RetailKart,FlowTrack,Incorrect invoice amount,neha.sharma@novatech.com,Closed
+1165,GlobalMart,PayBridge,Authentication failure,priya.kumar@novatech.com,Resolved
+1166,FinServ Ltd,SecureID,Incorrect invoice amount,suresh.singh@novatech.com,Closed
+1167,BlueLine Inc,Product12,Authentication failure,suresh.rao@novatech.com,Closed
+1168,EduTech,Product13,Automation trigger not firing,asha.das@novatech.com,Closed
+1169,AcmeCorp,PayBridge,Permission denied,rohit.joshi@novatech.com,Closed
+1170,RetailKart,SecureID,Memory leak on service,divya.singh@novatech.com,Resolved
+1171,EduTech,Product17,Dashboard loading slow,rita.pillai@novatech.com,Closed
+1172,FinServ Ltd,Product12,Payment failure during peak hours,vikram.rao@novatech.com,In Progress
+1173,BlueLine Inc,Product11,Data sync issue,divya.bose@novatech.com,Open
+1174,BlueLine Inc,SecureID,Dashboard loading slow,maya.gupta@novatech.com,Resolved
+1175,AcmeCorp,Product17,Permission denied,rita.reddy@novatech.com,Closed
+1176,FinServ Ltd,Insight360,Memory leak on service,nikhil.malhotra@novatech.com,Resolved
+1177,FinServ Ltd,SecureID,Latency spike,rohit.joshi@novatech.com,Open
+1178,BlueLine Inc,Product20,Automation trigger not firing,tara.mehta@novatech.com,In Progress
+1179,GlobalMart,Product12,Memory leak on service,tara.mehta@novatech.com,Open
+1180,GlobalMart,Product20,Authentication failure,maya.sharma@novatech.com,Closed
+1181,GlobalMart,EdgeCompute,Permission denied,pooja.reddy@novatech.com,In Progress
+1182,HealthPlus,Product16,API timeout,neha.iyer@novatech.com,Closed
+1183,FinServ Ltd,Product15,Data sync issue,sunil.saxena@novatech.com,Open
+1184,GlobalMart,Product17,Permission denied,arjun.saxena@novatech.com,Awaiting Customer
+1185,HealthPlus,HelpDeskPro,Latency spike,nikhil.das@novatech.com,Resolved
+1186,AcmeCorp,Product16,Incorrect invoice amount,anita.kapoor@novatech.com,Resolved
+1187,EduTech,Product17,Dashboard loading slow,tara.iyer@novatech.com,Open
+1188,BlueLine Inc,AutoDocs,Data sync issue,mark.mehta@novatech.com,In Progress
+1189,HealthPlus,Product14,Dashboard loading slow,divya.rao@novatech.com,Resolved
+1190,HealthPlus,Product15,Incorrect invoice amount,maya.kapoor@novatech.com,Open
+1191,AcmeCorp,Product13,Permission denied,mark.kapoor@novatech.com,Open
+1192,AcmeCorp,Product12,API timeout,divya.pillai@novatech.com,In Progress
+1193,AcmeCorp,Product11,Automation trigger not firing,nikhil.das@novatech.com,Open
+1194,HealthPlus,Product16,Failed job retries,tara.iyer@novatech.com,Open
+1195,EduTech,Product16,Data sync issue,isha.bose@novatech.com,Open
+1196,AcmeCorp,NovaPay,Authentication failure,karan.malhotra@novatech.com,Resolved
+1197,FinServ Ltd,Product20,Permission denied,neha.pillai@novatech.com,Open
+1198,RetailKart,EdgeCompute,Authentication failure,vikram.pillai@novatech.com,Open
+1199,GlobalMart,Product20,Data sync issue,dev.patel@novatech.com,Open
+1200,GlobalMart,Product20,Permission denied,dev.saxena@novatech.com,Closed
+1201,FinServ Ltd,EdgeCompute,Failed job retries,tara.gupta@novatech.com,Open
+1202,AcmeCorp,Product20,Incorrect invoice amount,pooja.reddy@novatech.com,Closed
+1203,BlueLine Inc,FlowTrack,Permission denied,arjun.das@novatech.com,In Progress
+1204,FinServ Ltd,Product18,Permission denied,samir.bose@novatech.com,Awaiting Customer
+1205,FinServ Ltd,NovaPay,Refund not processed,manish.bose@novatech.com,In Progress
+1206,EduTech,Product13,Incorrect invoice amount,samir.mehta@novatech.com,Closed
+1207,RetailKart,FlowTrack,Incorrect invoice amount,pooja.reddy@novatech.com,Closed
+1208,EduTech,CloudPulse,Latency spike,rita.gupta@novatech.com,Closed
+1209,BlueLine Inc,Insight360,Incorrect invoice amount,rohit.verma@novatech.com,In Progress
+1210,EduTech,MarketSense,Memory leak on service,pooja.das@novatech.com,Awaiting Customer
+1211,GlobalMart,MarketSense,Automation trigger not firing,dev.patel@novatech.com,Closed
+1212,GlobalMart,Insight360,Authentication failure,rohit.singh@novatech.com,Open
+1213,BlueLine Inc,Insight360,Incorrect invoice amount,maya.kapoor@novatech.com,In Progress
+1214,GlobalMart,Product18,Data sync issue,samir.mehta@novatech.com,Open
+1215,EduTech,HelpDeskPro,Authentication failure,asha.kapoor@novatech.com,Resolved
+1216,AcmeCorp,Product11,Authentication failure,vikram.pillai@novatech.com,Closed
+1217,GlobalMart,Product13,Failed job retries,nikhil.iyer@novatech.com,Resolved
+1218,GlobalMart,Product11,Automation trigger not firing,sunil.nair@novatech.com,Closed
+1219,RetailKart,Product17,Authentication failure,karan.kapoor@novatech.com,Open
+1220,GlobalMart,FlowTrack,Refund not processed,rhea.iyer@novatech.com,Awaiting Customer
+1221,BlueLine Inc,Product18,Authentication failure,neha.dsouza@novatech.com,Open
+1222,RetailKart,PayBridge,Authentication failure,samir.pillai@novatech.com,Closed
+1223,GlobalMart,MarketSense,Failed job retries,sunil.saxena@novatech.com,In Progress
+1224,AcmeCorp,Product12,Latency spike,sunil.mehta@novatech.com,Open
+1225,HealthPlus,Insight360,Dashboard loading slow,arjun.saxena@novatech.com,Closed
+1226,RetailKart,Product17,Failed job retries,arjun.reddy@novatech.com,Open
+1227,AcmeCorp,SecureID,Latency spike,arjun.reddy@novatech.com,Closed
+1228,AcmeCorp,SecureID,Dashboard loading slow,manish.malhotra@novatech.com,Closed
+1229,RetailKart,Product12,Refund not processed,mark.saxena@novatech.com,Closed
+1230,FinServ Ltd,SecureID,Memory leak on service,pooja.dsouza@novatech.com,Resolved
+1231,RetailKart,Product15,Dashboard loading slow,nikhil.verma@novatech.com,Open
+1232,RetailKart,Product13,Incorrect invoice amount,arjun.chopra@novatech.com,Open
+1233,AcmeCorp,NovaPay,Failed job retries,tara.saxena@novatech.com,In Progress
+1234,GlobalMart,Product18,Dashboard loading slow,priya.sharma@novatech.com,Closed
+1235,EduTech,Product15,API timeout,rhea.joshi@novatech.com,Open
+1236,GlobalMart,HelpDeskPro,Dashboard loading slow,kamal.gupta@novatech.com,Resolved
+1237,GlobalMart,MarketSense,Failed job retries,sunil.saxena@novatech.com,Awaiting Customer
+1238,HealthPlus,Product11,Memory leak on service,rita.nair@novatech.com,Closed
+1239,FinServ Ltd,Product18,Authentication failure,rita.pillai@novatech.com,Open
+1240,BlueLine Inc,MarketSense,Incorrect invoice amount,arjun.kumar@novatech.com,Open
+1241,BlueLine Inc,SecureID,API timeout,isha.saxena@novatech.com,In Progress
+1242,RetailKart,Product18,Latency spike,neha.iyer@novatech.com,In Progress
+1243,FinServ Ltd,SecureID,Latency spike,rita.saxena@novatech.com,Open
+1244,RetailKart,Product13,Failed job retries,tara.mehta@novatech.com,In Progress
+1245,GlobalMart,Product14,Latency spike,rita.rao@novatech.com,Open
+1246,RetailKart,FlowTrack,Data sync issue,leena.iyer@novatech.com,Closed
+1247,RetailKart,SecureID,Permission denied,anita.nair@novatech.com,Closed
+1248,HealthPlus,SecureID,Refund not processed,kamal.das@novatech.com,Resolved
+1249,AcmeCorp,CloudPulse,Permission denied,tara.dsouza@novatech.com,In Progress
+1250,BlueLine Inc,Product11,Failed job retries,raj.nair@novatech.com,In Progress
+1251,FinServ Ltd,PayBridge,Dashboard loading slow,samir.mehta@novatech.com,Open
+1252,FinServ Ltd,AutoDocs,Automation trigger not firing,tara.bose@novatech.com,In Progress
+1253,FinServ Ltd,FlowTrack,Permission denied,sneha.pillai@novatech.com,Open
+1254,FinServ Ltd,SecureID,Automation trigger not firing,arjun.singh@novatech.com,Closed
+1255,FinServ Ltd,Product11,Latency spike,pooja.mehta@novatech.com,Resolved
+1256,AcmeCorp,FlowTrack,Payment failure during peak hours,divya.rao@novatech.com,Closed
+1257,FinServ Ltd,AutoDocs,Memory leak on service,vikram.iyer@novatech.com,Closed
+1258,GlobalMart,Product20,Memory leak on service,divya.pillai@novatech.com,In Progress
+1259,EduTech,Product18,Authentication failure,sneha.pillai@novatech.com,Awaiting Customer
+1260,GlobalMart,EdgeCompute,Memory leak on service,raj.rao@novatech.com,Open
+1261,AcmeCorp,Insight360,Automation trigger not firing,nikhil.iyer@novatech.com,In Progress
+1262,GlobalMart,HelpDeskPro,Incorrect invoice amount,sneha.kapoor@novatech.com,Open
+1263,HealthPlus,Product11,Failed job retries,karan.das@novatech.com,In Progress
+1264,GlobalMart,SecureID,Incorrect invoice amount,nikhil.sharma@novatech.com,Closed
+1265,RetailKart,EdgeCompute,Data sync issue,vikram.pillai@novatech.com,Open
+1266,BlueLine Inc,SecureID,Dashboard loading slow,rohit.joshi@novatech.com,Open
+1267,GlobalMart,Product20,Refund not processed,sunil.chopra@novatech.com,Awaiting Customer
+1268,BlueLine Inc,Product11,Latency spike,tara.mehta@novatech.com,In Progress
+1269,HealthPlus,MarketSense,Data sync issue,nikhil.sharma@novatech.com,In Progress
+1270,RetailKart,Product16,Payment failure during peak hours,pooja.nair@novatech.com,Resolved
+1271,FinServ Ltd,Product15,API timeout,karan.malhotra@novatech.com,Closed
+1272,AcmeCorp,Insight360,Authentication failure,raj.das@novatech.com,Closed
+1273,HealthPlus,Product16,Authentication failure,nikhil.dsouza@novatech.com,Open
+1274,AcmeCorp,Product14,Automation trigger not firing,sunil.dsouza@novatech.com,Open
+1275,RetailKart,Product13,Incorrect invoice amount,vikram.singh@novatech.com,In Progress
+1276,FinServ Ltd,Product18,API timeout,vikram.rao@novatech.com,Closed
+1277,AcmeCorp,Product13,Permission denied,pooja.dsouza@novatech.com,Closed
+1278,RetailKart,Product20,Memory leak on service,rhea.joshi@novatech.com,Open
+1279,AcmeCorp,Product13,Incorrect invoice amount,arjun.malhotra@novatech.com,Awaiting Customer
+1280,FinServ Ltd,Product12,Automation trigger not firing,priya.saxena@novatech.com,Closed
+1281,GlobalMart,Product17,Payment failure during peak hours,vikram.singh@novatech.com,Open
+1282,EduTech,Product11,Data sync issue,neha.nair@novatech.com,In Progress
+1283,FinServ Ltd,Product17,Automation trigger not firing,neha.iyer@novatech.com,Resolved
+1284,RetailKart,MarketSense,Refund not processed,isha.bose@novatech.com,Closed
+1285,RetailKart,Product19,Incorrect invoice amount,priya.gupta@novatech.com,Resolved
+1286,FinServ Ltd,Product16,Failed job retries,rohit.bose@novatech.com,Open
+1287,HealthPlus,NovaPay,Incorrect invoice amount,manish.iyer@novatech.com,Closed
+1288,GlobalMart,Product19,Authentication failure,arjun.malhotra@novatech.com,Resolved
+1289,HealthPlus,NovaPay,Latency spike,asha.sharma@novatech.com,Open
+1290,EduTech,Product19,Latency spike,karan.gupta@novatech.com,Closed
+1291,FinServ Ltd,Product16,Automation trigger not firing,rohit.chopra@novatech.com,Closed
+1292,FinServ Ltd,Product13,Automation trigger not firing,asha.bose@novatech.com,Closed
+1293,AcmeCorp,Product19,Failed job retries,divya.malhotra@novatech.com,Open
+1294,GlobalMart,Product11,Refund not processed,suresh.kumar@novatech.com,In Progress
+1295,BlueLine Inc,Product14,Permission denied,anita.kumar@novatech.com,Closed
+1296,GlobalMart,Insight360,Failed job retries,nikhil.das@novatech.com,In Progress
+1297,FinServ Ltd,Product11,Memory leak on service,divya.rao@novatech.com,In Progress
+1298,RetailKart,MarketSense,Data sync issue,neha.malhotra@novatech.com,In Progress
+1299,FinServ Ltd,Product12,Memory leak on service,sunil.rao@novatech.com,Resolved
+1300,EduTech,AutoDocs,Latency spike,dev.bose@novatech.com,Open
+1301,BlueLine Inc,AutoDocs,Permission denied,arjun.saxena@novatech.com,Open
+1302,RetailKart,PayBridge,Failed job retries,vikram.iyer@novatech.com,Closed
+1303,GlobalMart,Product11,Data sync issue,maya.pillai@novatech.com,Closed
+1304,HealthPlus,AutoDocs,Authentication failure,vikram.pillai@novatech.com,Closed
+1305,FinServ Ltd,Product13,Refund not processed,divya.joshi@novatech.com,In Progress
+1306,HealthPlus,SecureID,Authentication failure,pooja.mehta@novatech.com,Open
+1307,EduTech,FlowTrack,Incorrect invoice amount,rhea.chopra@novatech.com,In Progress
+1308,RetailKart,Product16,API timeout,rohit.singh@novatech.com,Resolved
+1309,RetailKart,Product18,Failed job retries,suresh.iyer@novatech.com,Open
+1310,FinServ Ltd,Product19,API timeout,vikram.das@novatech.com,Open
+1311,FinServ Ltd,EdgeCompute,Memory leak on service,priya.saxena@novatech.com,Open
+1312,GlobalMart,Product11,Failed job retries,sunil.verma@novatech.com,Open
+1313,HealthPlus,SecureID,Payment failure during peak hours,karan.verma@novatech.com,Closed
+1314,BlueLine Inc,Product14,Memory leak on service,manish.chopra@novatech.com,Resolved
+1315,GlobalMart,Product16,Memory leak on service,rohit.singh@novatech.com,Closed
+1316,RetailKart,Product11,Authentication failure,rita.pillai@novatech.com,Open
+1317,HealthPlus,FlowTrack,Memory leak on service,nikhil.verma@novatech.com,Open
+1318,EduTech,Insight360,Automation trigger not firing,mark.kapoor@novatech.com,Resolved
+1319,BlueLine Inc,Insight360,Refund not processed,samir.bose@novatech.com,In Progress
+1320,EduTech,PayBridge,Payment failure during peak hours,priya.iyer@novatech.com,Open
+1321,FinServ Ltd,CloudPulse,Incorrect invoice amount,tara.iyer@novatech.com,In Progress
+1322,EduTech,Product18,Permission denied,raj.das@novatech.com,Resolved
+1323,BlueLine Inc,Product17,Data sync issue,suresh.iyer@novatech.com,Open
+1324,AcmeCorp,Product11,Automation trigger not firing,vikram.malhotra@novatech.com,In Progress
+1325,RetailKart,MarketSense,Payment failure during peak hours,rita.gupta@novatech.com,In Progress
+1326,RetailKart,Product19,Memory leak on service,rita.iyer@novatech.com,Open
+1327,FinServ Ltd,Product13,Refund not processed,nikhil.sharma@novatech.com,In Progress
+1328,GlobalMart,CloudPulse,Automation trigger not firing,nikhil.das@novatech.com,In Progress
+1329,BlueLine Inc,NovaPay,Authentication failure,vikram.pillai@novatech.com,Open
+1330,HealthPlus,AutoDocs,Incorrect invoice amount,leena.pillai@novatech.com,Closed
+1331,FinServ Ltd,NovaPay,Authentication failure,suresh.chopra@novatech.com,In Progress
+1332,BlueLine Inc,Insight360,Memory leak on service,kamal.reddy@novatech.com,In Progress
+1333,BlueLine Inc,Product13,Memory leak on service,kamal.das@novatech.com,Resolved
+1334,EduTech,PayBridge,Failed job retries,kamal.reddy@novatech.com,Closed
+1335,RetailKart,Product12,Latency spike,neha.mehta@novatech.com,Open
+1336,BlueLine Inc,Product16,Automation trigger not firing,mark.nair@novatech.com,Closed
+1337,FinServ Ltd,Product12,Refund not processed,divya.singh@novatech.com,In Progress
+1338,GlobalMart,Product18,Memory leak on service,karan.chopra@novatech.com,Open
+1339,BlueLine Inc,Product20,Dashboard loading slow,rohit.chopra@novatech.com,In Progress
+1340,EduTech,Product12,Dashboard loading slow,raj.pillai@novatech.com,Closed
+1341,AcmeCorp,Product18,Permission denied,rohit.singh@novatech.com,Closed
+1342,BlueLine Inc,MarketSense,Incorrect invoice amount,rhea.nair@novatech.com,In Progress
+1343,AcmeCorp,HelpDeskPro,Failed job retries,arjun.malhotra@novatech.com,In Progress
+1344,FinServ Ltd,Product15,Payment failure during peak hours,mark.nair@novatech.com,Open
+1345,GlobalMart,Product15,Latency spike,karan.verma@novatech.com,Closed
+1346,EduTech,PayBridge,Failed job retries,suresh.malhotra@novatech.com,In Progress
+1347,HealthPlus,NovaPay,Failed job retries,karan.malhotra@novatech.com,Closed
+1348,AcmeCorp,Product14,Incorrect invoice amount,divya.singh@novatech.com,Open
+1349,AcmeCorp,FlowTrack,Data sync issue,vikram.rao@novatech.com,Open
+1350,BlueLine Inc,SecureID,Memory leak on service,karan.pillai@novatech.com,Closed
+1351,GlobalMart,Product12,Refund not processed,samir.pillai@novatech.com,Resolved
+1352,GlobalMart,Product13,Dashboard loading slow,anita.singh@novatech.com,Awaiting Customer
+1353,HealthPlus,Product18,Automation trigger not firing,suresh.chopra@novatech.com,Resolved
+1354,AcmeCorp,MarketSense,Permission denied,rohit.joshi@novatech.com,In Progress
+1355,EduTech,EdgeCompute,Payment failure during peak hours,rita.iyer@novatech.com,Open
+1356,RetailKart,Product15,Memory leak on service,tara.mehta@novatech.com,In Progress
+1357,FinServ Ltd,Product13,API timeout,sunil.chopra@novatech.com,In Progress
+1358,BlueLine Inc,AutoDocs,API timeout,manish.chopra@novatech.com,Resolved
+1359,HealthPlus,CloudPulse,Payment failure during peak hours,leena.nair@novatech.com,Closed
+1360,FinServ Ltd,NovaPay,API timeout,sunil.kapoor@novatech.com,Open
+1361,FinServ Ltd,Insight360,Data sync issue,mark.bose@novatech.com,Closed
+1362,HealthPlus,Insight360,API timeout,isha.joshi@novatech.com,Open
+1363,GlobalMart,EdgeCompute,Permission denied,karan.malhotra@novatech.com,Closed
+1364,HealthPlus,Insight360,Automation trigger not firing,kamal.das@novatech.com,Awaiting Customer
+1365,BlueLine Inc,Product19,Incorrect invoice amount,sneha.kumar@novatech.com,Closed
+1366,EduTech,Product11,API timeout,leena.pillai@novatech.com,Resolved
+1367,EduTech,Product17,API timeout,tara.pillai@novatech.com,In Progress
+1368,AcmeCorp,Product18,Latency spike,sunil.dsouza@novatech.com,Closed
+1369,BlueLine Inc,Product14,Permission denied,raj.das@novatech.com,Open
+1370,RetailKart,Product13,Permission denied,kamal.dsouza@novatech.com,Closed
+1371,GlobalMart,SecureID,Authentication failure,rohit.joshi@novatech.com,Open
+1372,FinServ Ltd,Product16,API timeout,kamal.patel@novatech.com,Open
+1373,HealthPlus,SecureID,Data sync issue,raj.pillai@novatech.com,Open
+1374,GlobalMart,Product14,Permission denied,rita.verma@novatech.com,Open
+1375,BlueLine Inc,AutoDocs,API timeout,manish.iyer@novatech.com,Closed
+1376,GlobalMart,Product12,Dashboard loading slow,nikhil.dsouza@novatech.com,Closed
+1377,BlueLine Inc,Insight360,Authentication failure,rohit.joshi@novatech.com,Closed
+1378,FinServ Ltd,Insight360,Dashboard loading slow,nikhil.reddy@novatech.com,Resolved
+1379,FinServ Ltd,Product18,API timeout,divya.rao@novatech.com,Open
+1380,RetailKart,PayBridge,Payment failure during peak hours,anita.kumar@novatech.com,Resolved
+1381,EduTech,CloudPulse,Failed job retries,rita.iyer@novatech.com,In Progress
+1382,BlueLine Inc,Product20,Failed job retries,sunil.kapoor@novatech.com,In Progress
+1383,BlueLine Inc,Product18,Incorrect invoice amount,anita.kumar@novatech.com,Open
+1384,GlobalMart,Product18,Memory leak on service,asha.kapoor@novatech.com,In Progress
+1385,RetailKart,Product17,Data sync issue,leena.iyer@novatech.com,Open
+1386,EduTech,Product16,Incorrect invoice amount,raj.pillai@novatech.com,Open
+1387,RetailKart,Product14,Payment failure during peak hours,rohit.bose@novatech.com,Resolved
+1388,EduTech,SecureID,Payment failure during peak hours,samir.nair@novatech.com,Closed
+1389,FinServ Ltd,Product19,Failed job retries,mark.kapoor@novatech.com,Open
+1390,BlueLine Inc,Product11,API timeout,asha.saxena@novatech.com,Closed
+1391,BlueLine Inc,Product16,Permission denied,suresh.chopra@novatech.com,Resolved
+1392,RetailKart,AutoDocs,Data sync issue,suresh.rao@novatech.com,Closed
+1393,EduTech,Product16,Data sync issue,asha.joshi@novatech.com,Closed
+1394,RetailKart,MarketSense,Automation trigger not firing,tara.mehta@novatech.com,In Progress
+1395,BlueLine Inc,Product18,Memory leak on service,isha.reddy@novatech.com,Open
+1396,AcmeCorp,FlowTrack,Memory leak on service,rohit.joshi@novatech.com,Closed
+1397,GlobalMart,SecureID,Memory leak on service,priya.saxena@novatech.com,Open
+1398,BlueLine Inc,NovaPay,API timeout,priya.gupta@novatech.com,In Progress
+1399,AcmeCorp,Product20,Memory leak on service,asha.patel@novatech.com,Resolved
+1400,GlobalMart,Product16,Payment failure during peak hours,arjun.mehta@novatech.com,In Progress
+1401,GlobalMart,NovaPay,Payment failure during peak hours,rita.verma@novatech.com,Closed
+1402,FinServ Ltd,PayBridge,Payment failure during peak hours,kamal.das@novatech.com,Resolved
+1403,EduTech,Product14,Automation trigger not firing,sneha.iyer@novatech.com,Resolved
+1404,FinServ Ltd,SecureID,API timeout,divya.bose@novatech.com,Closed
+1405,RetailKart,Product12,Authentication failure,arjun.malhotra@novatech.com,In Progress
+1406,RetailKart,Product13,Data sync issue,rohit.bose@novatech.com,Open
+1407,EduTech,EdgeCompute,Authentication failure,sneha.joshi@novatech.com,Resolved
+1408,AcmeCorp,Insight360,Dashboard loading slow,raj.rao@novatech.com,In Progress
+1409,FinServ Ltd,Product16,Payment failure during peak hours,anita.nair@novatech.com,Open
+1410,BlueLine Inc,FlowTrack,Data sync issue,manish.patel@novatech.com,In Progress
+1411,HealthPlus,Product11,Latency spike,suresh.gupta@novatech.com,Awaiting Customer
+1412,FinServ Ltd,Insight360,API timeout,anita.kumar@novatech.com,Resolved
+1413,EduTech,Product19,Data sync issue,suresh.iyer@novatech.com,Open
+1414,AcmeCorp,AutoDocs,Permission denied,rohit.bose@novatech.com,Closed
+1415,BlueLine Inc,Product11,Payment failure during peak hours,karan.verma@novatech.com,Open
+1416,BlueLine Inc,Product13,Dashboard loading slow,arjun.saxena@novatech.com,Open
+1417,BlueLine Inc,Product19,Refund not processed,arjun.reddy@novatech.com,Resolved
+1418,RetailKart,Product13,Failed job retries,nikhil.das@novatech.com,Closed
+1419,EduTech,FlowTrack,Permission denied,rohit.das@novatech.com,Awaiting Customer
+1420,AcmeCorp,CloudPulse,Refund not processed,priya.saxena@novatech.com,Resolved
+1421,RetailKart,Product20,Latency spike,asha.chopra@novatech.com,Closed
+1422,HealthPlus,Product11,Payment failure during peak hours,rita.verma@novatech.com,Open
+1423,GlobalMart,Product16,API timeout,asha.kapoor@novatech.com,Closed
+1424,GlobalMart,Product14,Automation trigger not firing,anita.singh@novatech.com,Closed
+1425,GlobalMart,FlowTrack,Latency spike,maya.gupta@novatech.com,Closed
+1426,EduTech,FlowTrack,Dashboard loading slow,sneha.chopra@novatech.com,Open
+1427,EduTech,SecureID,Failed job retries,vikram.saxena@novatech.com,In Progress
+1428,AcmeCorp,FlowTrack,Payment failure during peak hours,vikram.sharma@novatech.com,In Progress
+1429,RetailKart,AutoDocs,Dashboard loading slow,maya.singh@novatech.com,Open
+1430,GlobalMart,Product15,Permission denied,nikhil.sharma@novatech.com,In Progress
+1431,AcmeCorp,NovaPay,Dashboard loading slow,rohit.kapoor@novatech.com,Closed
+1432,FinServ Ltd,Product20,Incorrect invoice amount,vikram.saxena@novatech.com,In Progress
+1433,RetailKart,Product14,Refund not processed,vikram.chopra@novatech.com,Open
+1434,FinServ Ltd,EdgeCompute,Latency spike,nikhil.das@novatech.com,Open
+1435,GlobalMart,MarketSense,Automation trigger not firing,sneha.chopra@novatech.com,In Progress
+1436,GlobalMart,SecureID,Dashboard loading slow,tara.dsouza@novatech.com,In Progress
+1437,GlobalMart,PayBridge,Data sync issue,suresh.pillai@novatech.com,Open
+1438,RetailKart,EdgeCompute,Failed job retries,tara.bose@novatech.com,In Progress
+1439,FinServ Ltd,HelpDeskPro,Data sync issue,sneha.iyer@novatech.com,Open
+1440,AcmeCorp,Product13,Incorrect invoice amount,rita.iyer@novatech.com,Closed
+1441,HealthPlus,Product11,Data sync issue,raj.joshi@novatech.com,In Progress
+1442,HealthPlus,Product20,Automation trigger not firing,arjun.saxena@novatech.com,In Progress
+1443,EduTech,HelpDeskPro,Data sync issue,raj.malhotra@novatech.com,Open
+1444,GlobalMart,Product11,Authentication failure,rita.gupta@novatech.com,Closed
+1445,GlobalMart,Product19,API timeout,neha.iyer@novatech.com,In Progress
+1446,HealthPlus,Product13,Incorrect invoice amount,maya.patel@novatech.com,Resolved
+1447,BlueLine Inc,Product19,Permission denied,neha.rao@novatech.com,Closed
+1448,FinServ Ltd,NovaPay,Failed job retries,pooja.das@novatech.com,Resolved
+1449,BlueLine Inc,Product15,Authentication failure,tara.iyer@novatech.com,Closed
+1450,HealthPlus,Product14,Memory leak on service,sunil.nair@novatech.com,Open
+1451,RetailKart,EdgeCompute,Authentication failure,arjun.singh@novatech.com,Open
+1452,GlobalMart,Product13,Dashboard loading slow,samir.pillai@novatech.com,Awaiting Customer
+1453,GlobalMart,Product19,Refund not processed,priya.chopra@novatech.com,In Progress
+1454,HealthPlus,Product14,Permission denied,sunil.patel@novatech.com,Closed
+1455,RetailKart,Product18,Latency spike,anita.nair@novatech.com,Resolved
+1456,AcmeCorp,EdgeCompute,Memory leak on service,asha.patel@novatech.com,In Progress
+1457,EduTech,Product20,Payment failure during peak hours,rohit.bose@novatech.com,Awaiting Customer
+1458,EduTech,Product13,Incorrect invoice amount,suresh.rao@novatech.com,Closed
+1459,AcmeCorp,NovaPay,Dashboard loading slow,samir.nair@novatech.com,Open
+1460,EduTech,Product17,Permission denied,leena.joshi@novatech.com,Closed
+1461,BlueLine Inc,Product15,Incorrect invoice amount,rohit.joshi@novatech.com,In Progress
+1462,EduTech,Product19,Failed job retries,kamal.das@novatech.com,Open
+1463,AcmeCorp,Product16,Dashboard loading slow,maya.gupta@novatech.com,In Progress
+1464,AcmeCorp,CloudPulse,Failed job retries,tara.gupta@novatech.com,In Progress
+1465,RetailKart,Product15,API timeout,nikhil.das@novatech.com,In Progress
+1466,GlobalMart,CloudPulse,Data sync issue,tara.mehta@novatech.com,Closed
+1467,RetailKart,FlowTrack,Authentication failure,vikram.singh@novatech.com,Resolved
+1468,AcmeCorp,NovaPay,Incorrect invoice amount,rita.pillai@novatech.com,Open
+1469,HealthPlus,MarketSense,Failed job retries,vikram.das@novatech.com,In Progress
+1470,FinServ Ltd,MarketSense,Incorrect invoice amount,pooja.dsouza@novatech.com,In Progress
+1471,GlobalMart,EdgeCompute,Refund not processed,karan.gupta@novatech.com,Open
+1472,EduTech,Product14,Refund not processed,divya.pillai@novatech.com,Closed
+1473,BlueLine Inc,Product15,Latency spike,sunil.malhotra@novatech.com,In Progress
+1474,EduTech,HelpDeskPro,API timeout,dev.saxena@novatech.com,Closed
+1475,HealthPlus,FlowTrack,Latency spike,maya.kapoor@novatech.com,Closed
+1476,FinServ Ltd,MarketSense,Incorrect invoice amount,neha.iyer@novatech.com,Open
+1477,AcmeCorp,AutoDocs,Memory leak on service,karan.das@novatech.com,In Progress
+1478,EduTech,Product11,Latency spike,vikram.saxena@novatech.com,Closed
+1479,FinServ Ltd,CloudPulse,Incorrect invoice amount,rohit.kapoor@novatech.com,Resolved
+1480,FinServ Ltd,MarketSense,Memory leak on service,suresh.nair@novatech.com,Resolved
+1481,FinServ Ltd,Product19,Dashboard loading slow,karan.reddy@novatech.com,Open
+1482,AcmeCorp,EdgeCompute,Authentication failure,maya.patel@novatech.com,Open
+1483,EduTech,SecureID,Permission denied,vikram.saxena@novatech.com,In Progress
+1484,BlueLine Inc,Product19,Refund not processed,neha.pillai@novatech.com,Open
+1485,EduTech,Product18,Failed job retries,rohit.rao@novatech.com,Closed
+1486,BlueLine Inc,Product18,Automation trigger not firing,divya.dsouza@novatech.com,Open
+1487,BlueLine Inc,Product11,Data sync issue,suresh.dsouza@novatech.com,Open
+1488,RetailKart,NovaPay,Data sync issue,kamal.gupta@novatech.com,Open
+1489,GlobalMart,Product18,Permission denied,suresh.chopra@novatech.com,In Progress
+1490,EduTech,Product16,Refund not processed,divya.chopra@novatech.com,Resolved
+1491,GlobalMart,MarketSense,Dashboard loading slow,rohit.bose@novatech.com,Open
+1492,HealthPlus,EdgeCompute,Authentication failure,vikram.rao@novatech.com,Open
+1493,FinServ Ltd,PayBridge,Automation trigger not firing,vikram.chopra@novatech.com,In Progress
+1494,EduTech,Product16,Permission denied,arjun.kumar@novatech.com,Open
+1495,AcmeCorp,AutoDocs,Permission denied,asha.bose@novatech.com,Awaiting Customer
+1496,FinServ Ltd,Insight360,Failed job retries,nikhil.iyer@novatech.com,In Progress
+1497,GlobalMart,CloudPulse,Failed job retries,tara.iyer@novatech.com,Closed
+1498,BlueLine Inc,PayBridge,Payment failure during peak hours,pooja.dsouza@novatech.com,Open
+1499,HealthPlus,FlowTrack,Data sync issue,vikram.saxena@novatech.com,Awaiting Customer
+1500,HealthPlus,EdgeCompute,API timeout,leena.nair@novatech.com,Closed
+1501,EduTech,Product12,Failed job retries,rhea.joshi@novatech.com,Closed
+1502,BlueLine Inc,Product20,Automation trigger not firing,suresh.pillai@novatech.com,Open
+1503,BlueLine Inc,Insight360,Latency spike,maya.pillai@novatech.com,In Progress
+1504,FinServ Ltd,Product18,Automation trigger not firing,neha.dsouza@novatech.com,Awaiting Customer
+1505,RetailKart,PayBridge,Latency spike,sneha.chopra@novatech.com,Awaiting Customer
+1506,FinServ Ltd,CloudPulse,Automation trigger not firing,karan.verma@novatech.com,Closed
+1507,GlobalMart,Insight360,Authentication failure,vikram.saxena@novatech.com,Closed
+1508,EduTech,SecureID,API timeout,vikram.verma@novatech.com,Closed
+1509,HealthPlus,EdgeCompute,Memory leak on service,rohit.joshi@novatech.com,In Progress
+1510,FinServ Ltd,AutoDocs,Memory leak on service,mark.kapoor@novatech.com,In Progress
+1511,AcmeCorp,FlowTrack,Refund not processed,nikhil.sharma@novatech.com,Closed
+1512,EduTech,Product12,Data sync issue,mark.saxena@novatech.com,In Progress
+1513,FinServ Ltd,NovaPay,Failed job retries,pooja.nair@novatech.com,Closed
+1514,GlobalMart,Product12,Dashboard loading slow,arjun.malhotra@novatech.com,In Progress
+1515,BlueLine Inc,Product14,API timeout,raj.das@novatech.com,Open
+1516,HealthPlus,PayBridge,Incorrect invoice amount,pooja.malhotra@novatech.com,Closed
+1517,FinServ Ltd,Product16,Incorrect invoice amount,rita.pillai@novatech.com,Closed
+1518,AcmeCorp,Insight360,Dashboard loading slow,tara.bose@novatech.com,Closed
+1519,GlobalMart,NovaPay,Dashboard loading slow,pooja.joshi@novatech.com,Resolved
+1520,GlobalMart,Product15,Payment failure during peak hours,isha.reddy@novatech.com,In Progress
+1521,EduTech,SecureID,Memory leak on service,leena.pillai@novatech.com,Open
+1522,RetailKart,FlowTrack,Memory leak on service,vikram.rao@novatech.com,Open
+1523,RetailKart,MarketSense,Payment failure during peak hours,anita.sharma@novatech.com,Closed
+1524,EduTech,EdgeCompute,Refund not processed,suresh.chopra@novatech.com,Open
+1525,AcmeCorp,NovaPay,API timeout,divya.rao@novatech.com,Open
+1526,FinServ Ltd,EdgeCompute,Permission denied,anita.singh@novatech.com,In Progress
+1527,AcmeCorp,Product11,Dashboard loading slow,karan.das@novatech.com,In Progress
+1528,BlueLine Inc,Product16,Dashboard loading slow,karan.gupta@novatech.com,In Progress
+1529,EduTech,CloudPulse,Dashboard loading slow,raj.malhotra@novatech.com,In Progress
+1530,RetailKart,SecureID,Refund not processed,anita.kumar@novatech.com,Resolved
+1531,HealthPlus,SecureID,Memory leak on service,arjun.reddy@novatech.com,Open
+1532,FinServ Ltd,Product19,Payment failure during peak hours,rhea.joshi@novatech.com,Closed
+1533,GlobalMart,Product12,Failed job retries,anita.kumar@novatech.com,Closed
+1534,BlueLine Inc,Product14,Latency spike,sneha.joshi@novatech.com,In Progress
+1535,BlueLine Inc,FlowTrack,Dashboard loading slow,nikhil.das@novatech.com,Closed
+1536,FinServ Ltd,Product13,Incorrect invoice amount,karan.verma@novatech.com,In Progress
+1537,HealthPlus,SecureID,API timeout,pooja.saxena@novatech.com,Closed
+1538,BlueLine Inc,Product18,Latency spike,mark.bose@novatech.com,Closed
+1539,RetailKart,NovaPay,Memory leak on service,vikram.sharma@novatech.com,In Progress
+1540,FinServ Ltd,Product20,Permission denied,nikhil.reddy@novatech.com,Closed
+1541,RetailKart,Insight360,API timeout,raj.das@novatech.com,In Progress
+1542,BlueLine Inc,Product16,Memory leak on service,asha.das@novatech.com,Open
+1543,AcmeCorp,Product12,Incorrect invoice amount,maya.singh@novatech.com,In Progress
+1544,HealthPlus,Product19,Refund not processed,kamal.gupta@novatech.com,In Progress
+1545,BlueLine Inc,Product16,Dashboard loading slow,dev.saxena@novatech.com,Closed
+1546,AcmeCorp,AutoDocs,API timeout,pooja.mehta@novatech.com,Resolved
+1547,HealthPlus,Product13,Permission denied,leena.reddy@novatech.com,Closed
+1548,FinServ Ltd,Product14,Refund not processed,divya.singh@novatech.com,In Progress
+1549,EduTech,Product18,Permission denied,isha.bose@novatech.com,Open
+1550,AcmeCorp,PayBridge,Dashboard loading slow,arjun.kumar@novatech.com,Resolved
+1551,HealthPlus,SecureID,Permission denied,neha.iyer@novatech.com,In Progress
+1552,EduTech,FlowTrack,Authentication failure,sneha.kapoor@novatech.com,In Progress
+1553,HealthPlus,EdgeCompute,Payment failure during peak hours,vikram.das@novatech.com,Open
+1554,GlobalMart,CloudPulse,Data sync issue,rhea.joshi@novatech.com,Closed
+1555,RetailKart,MarketSense,Dashboard loading slow,asha.saxena@novatech.com,Closed
+1556,EduTech,NovaPay,Automation trigger not firing,sunil.nair@novatech.com,Awaiting Customer
+1557,FinServ Ltd,Product17,Failed job retries,samir.nair@novatech.com,Open
+1558,BlueLine Inc,AutoDocs,Failed job retries,rita.saxena@novatech.com,Open
+1559,AcmeCorp,Product11,Refund not processed,suresh.iyer@novatech.com,In Progress
+1560,RetailKart,Product19,Memory leak on service,mark.saxena@novatech.com,In Progress
+1561,FinServ Ltd,Product12,Payment failure during peak hours,sunil.nair@novatech.com,Resolved
+1562,BlueLine Inc,Product12,Automation trigger not firing,dev.das@novatech.com,Closed
+1563,FinServ Ltd,CloudPulse,API timeout,isha.joshi@novatech.com,In Progress
+1564,AcmeCorp,NovaPay,API timeout,vikram.singh@novatech.com,In Progress
+1565,GlobalMart,SecureID,Automation trigger not firing,maya.kapoor@novatech.com,Awaiting Customer
+1566,AcmeCorp,Product18,Failed job retries,isha.joshi@novatech.com,Closed
+1567,BlueLine Inc,Product11,API timeout,mark.kapoor@novatech.com,Resolved
+1568,RetailKart,AutoDocs,Dashboard loading slow,nikhil.verma@novatech.com,In Progress
+1569,FinServ Ltd,Insight360,Automation trigger not firing,raj.nair@novatech.com,Resolved
+1570,AcmeCorp,Product13,Dashboard loading slow,vikram.sharma@novatech.com,In Progress
+1571,RetailKart,PayBridge,Incorrect invoice amount,anita.mehta@novatech.com,Closed
+1572,AcmeCorp,Product12,API timeout,raj.dsouza@novatech.com,Closed
+1573,RetailKart,Product20,API timeout,pooja.das@novatech.com,In Progress
+1574,GlobalMart,HelpDeskPro,Failed job retries,leena.reddy@novatech.com,In Progress
+1575,HealthPlus,EdgeCompute,Automation trigger not firing,arjun.mehta@novatech.com,Resolved
+1576,AcmeCorp,EdgeCompute,Permission denied,rita.nair@novatech.com,Closed
+1577,EduTech,NovaPay,Incorrect invoice amount,nikhil.saxena@novatech.com,Closed
+1578,GlobalMart,PayBridge,Dashboard loading slow,sunil.kapoor@novatech.com,In Progress
+1579,BlueLine Inc,Product14,Data sync issue,karan.verma@novatech.com,Open
+1580,BlueLine Inc,AutoDocs,Dashboard loading slow,vikram.singh@novatech.com,Resolved
+1581,HealthPlus,Product17,Refund not processed,divya.singh@novatech.com,Resolved
+1582,GlobalMart,FlowTrack,Latency spike,neha.sharma@novatech.com,In Progress
+1583,EduTech,Product13,Dashboard loading slow,karan.pillai@novatech.com,Closed
+1584,GlobalMart,SecureID,API timeout,raj.dsouza@novatech.com,Open
+1585,RetailKart,Product13,Failed job retries,tara.iyer@novatech.com,Closed
+1586,RetailKart,Product15,Authentication failure,priya.saxena@novatech.com,Open
+1587,BlueLine Inc,SecureID,Latency spike,sneha.iyer@novatech.com,Open
+1588,BlueLine Inc,Product15,Data sync issue,raj.malhotra@novatech.com,In Progress
+1589,FinServ Ltd,Product12,API timeout,pooja.dsouza@novatech.com,In Progress
+1590,RetailKart,CloudPulse,Dashboard loading slow,dev.verma@novatech.com,Resolved
+1591,RetailKart,Product20,Payment failure during peak hours,karan.malhotra@novatech.com,Resolved
+1592,RetailKart,SecureID,Dashboard loading slow,leena.kumar@novatech.com,Open
+1593,RetailKart,Product13,Permission denied,rohit.joshi@novatech.com,Closed
+1594,RetailKart,MarketSense,Payment failure during peak hours,mark.saxena@novatech.com,In Progress
+1595,GlobalMart,Product18,Failed job retries,pooja.malhotra@novatech.com,Open
+1596,GlobalMart,CloudPulse,Automation trigger not firing,vikram.pillai@novatech.com,Open
+1597,HealthPlus,EdgeCompute,Automation trigger not firing,priya.saxena@novatech.com,Resolved
+1598,RetailKart,FlowTrack,Latency spike,rita.singh@novatech.com,Open
+1599,HealthPlus,FlowTrack,Payment failure during peak hours,dev.patel@novatech.com,Open
+1600,EduTech,Product15,Automation trigger not firing,pooja.nair@novatech.com,Resolved
+1601,HealthPlus,Product11,Dashboard loading slow,pooja.mehta@novatech.com,Resolved
+1602,AcmeCorp,MarketSense,Latency spike,arjun.pillai@novatech.com,Resolved
+1603,GlobalMart,Product16,Payment failure during peak hours,asha.saxena@novatech.com,Closed
+1604,BlueLine Inc,Product12,API timeout,vikram.rao@novatech.com,Open
+1605,RetailKart,Product15,Automation trigger not firing,vikram.rao@novatech.com,Closed
+1606,FinServ Ltd,EdgeCompute,Memory leak on service,maya.gupta@novatech.com,In Progress
+1607,FinServ Ltd,Product16,Payment failure during peak hours,anita.mehta@novatech.com,Open
+1608,BlueLine Inc,Product14,API timeout,sneha.pillai@novatech.com,Resolved
+1609,FinServ Ltd,EdgeCompute,Memory leak on service,karan.kapoor@novatech.com,In Progress
+1610,AcmeCorp,Product13,Failed job retries,asha.kapoor@novatech.com,In Progress
+1611,HealthPlus,Product16,Incorrect invoice amount,neha.malhotra@novatech.com,Closed
+1612,RetailKart,Product13,Authentication failure,neha.rao@novatech.com,Open
+1613,FinServ Ltd,EdgeCompute,Payment failure during peak hours,vikram.kumar@novatech.com,Resolved
+1614,RetailKart,Insight360,Data sync issue,rita.verma@novatech.com,In Progress
+1615,FinServ Ltd,EdgeCompute,Automation trigger not firing,anita.sharma@novatech.com,Open
+1616,BlueLine Inc,AutoDocs,Permission denied,priya.patel@novatech.com,Closed
+1617,EduTech,Insight360,API timeout,sneha.kumar@novatech.com,Resolved
+1618,HealthPlus,Product13,Incorrect invoice amount,manish.chopra@novatech.com,Resolved
+1619,HealthPlus,MarketSense,Automation trigger not firing,manish.malhotra@novatech.com,Closed
+1620,HealthPlus,Product12,Latency spike,divya.pillai@novatech.com,Closed
+1621,RetailKart,Product19,Latency spike,tara.gupta@novatech.com,Closed
+1622,BlueLine Inc,Product16,Permission denied,rhea.mehta@novatech.com,Open
+1623,AcmeCorp,FlowTrack,Payment failure during peak hours,priya.saxena@novatech.com,Closed
+1624,AcmeCorp,Product17,Data sync issue,nikhil.saxena@novatech.com,In Progress
+1625,FinServ Ltd,HelpDeskPro,Automation trigger not firing,anita.gupta@novatech.com,Closed
+1626,HealthPlus,Product11,Payment failure during peak hours,suresh.malhotra@novatech.com,Open
+1627,EduTech,SecureID,Dashboard loading slow,manish.patel@novatech.com,In Progress
+1628,RetailKart,FlowTrack,Incorrect invoice amount,suresh.nair@novatech.com,Resolved
+1629,GlobalMart,Product19,Dashboard loading slow,nikhil.malhotra@novatech.com,In Progress
+1630,BlueLine Inc,MarketSense,Failed job retries,divya.rao@novatech.com,In Progress
+1631,EduTech,Product16,Memory leak on service,kamal.dsouza@novatech.com,Open
+1632,FinServ Ltd,Product20,Incorrect invoice amount,raj.nair@novatech.com,Closed
+1633,HealthPlus,MarketSense,Refund not processed,priya.mehta@novatech.com,Closed
+1634,RetailKart,SecureID,Automation trigger not firing,karan.pillai@novatech.com,Open
+1635,EduTech,Product19,Refund not processed,kamal.patel@novatech.com,Awaiting Customer
+1636,FinServ Ltd,Insight360,Automation trigger not firing,rhea.iyer@novatech.com,In Progress
+1637,HealthPlus,Product20,API timeout,anita.nair@novatech.com,Closed
+1638,GlobalMart,SecureID,Incorrect invoice amount,rohit.das@novatech.com,Open
+1639,RetailKart,Product11,Automation trigger not firing,rita.verma@novatech.com,Resolved
+1640,AcmeCorp,Product11,Data sync issue,priya.iyer@novatech.com,Open
+1641,BlueLine Inc,FlowTrack,Incorrect invoice amount,dev.das@novatech.com,Closed
+1642,EduTech,NovaPay,Payment failure during peak hours,vikram.pillai@novatech.com,In Progress
+1643,GlobalMart,MarketSense,Refund not processed,raj.das@novatech.com,Resolved
+1644,RetailKart,Product18,Refund not processed,anita.sharma@novatech.com,Resolved
+1645,HealthPlus,Product19,Memory leak on service,tara.verma@novatech.com,Closed
+1646,BlueLine Inc,Product15,Dashboard loading slow,karan.rao@novatech.com,Resolved
+1647,RetailKart,NovaPay,Incorrect invoice amount,samir.nair@novatech.com,Awaiting Customer
+1648,AcmeCorp,Product11,Automation trigger not firing,raj.mehta@novatech.com,In Progress
+1649,EduTech,FlowTrack,Permission denied,vikram.sharma@novatech.com,Resolved
+1650,AcmeCorp,Product11,Latency spike,isha.bose@novatech.com,Resolved
+1651,EduTech,NovaPay,Refund not processed,vikram.sharma@novatech.com,Closed
+1652,FinServ Ltd,Product14,Automation trigger not firing,priya.rao@novatech.com,Open
+1653,BlueLine Inc,HelpDeskPro,Refund not processed,sneha.kapoor@novatech.com,Closed
+1654,EduTech,Product18,Authentication failure,asha.malhotra@novatech.com,Open
+1655,BlueLine Inc,CloudPulse,Payment failure during peak hours,rohit.joshi@novatech.com,Closed
+1656,HealthPlus,Product16,Automation trigger not firing,priya.rao@novatech.com,In Progress
+1657,GlobalMart,FlowTrack,Authentication failure,asha.bose@novatech.com,Closed
+1658,FinServ Ltd,Product16,API timeout,neha.sharma@novatech.com,Open
+1659,BlueLine Inc,PayBridge,Dashboard loading slow,asha.sharma@novatech.com,Resolved
+1660,RetailKart,Product13,Data sync issue,divya.dsouza@novatech.com,Resolved
+1661,RetailKart,FlowTrack,Memory leak on service,rohit.verma@novatech.com,In Progress
+1662,RetailKart,Product13,Incorrect invoice amount,tara.saxena@novatech.com,In Progress
+1663,RetailKart,Product15,Data sync issue,priya.sharma@novatech.com,Open
+1664,RetailKart,Product19,Payment failure during peak hours,suresh.kumar@novatech.com,Closed
+1665,EduTech,CloudPulse,Dashboard loading slow,arjun.saxena@novatech.com,In Progress
+1666,FinServ Ltd,Product14,Latency spike,karan.gupta@novatech.com,Closed
+1667,HealthPlus,Product13,Permission denied,arjun.saxena@novatech.com,Awaiting Customer
+1668,EduTech,Product16,Latency spike,sunil.dsouza@novatech.com,Open
+1669,RetailKart,FlowTrack,Refund not processed,mark.mehta@novatech.com,Resolved
+1670,AcmeCorp,Product17,Latency spike,leena.reddy@novatech.com,In Progress
+1671,FinServ Ltd,Product20,Automation trigger not firing,kamal.reddy@novatech.com,Resolved
+1672,GlobalMart,MarketSense,Automation trigger not firing,divya.malhotra@novatech.com,Open
+1673,BlueLine Inc,SecureID,Payment failure during peak hours,neha.pillai@novatech.com,Open
+1674,EduTech,Product14,API timeout,asha.bose@novatech.com,Closed
+1675,HealthPlus,Product20,Authentication failure,kamal.dsouza@novatech.com,Resolved
+1676,HealthPlus,FlowTrack,Dashboard loading slow,vikram.saxena@novatech.com,Closed
+1677,FinServ Ltd,Product11,Authentication failure,nikhil.das@novatech.com,In Progress
+1678,HealthPlus,NovaPay,Failed job retries,divya.iyer@novatech.com,Closed
+1679,HealthPlus,Product14,Dashboard loading slow,mark.kapoor@novatech.com,Open
+1680,FinServ Ltd,Product19,Latency spike,tara.verma@novatech.com,Awaiting Customer
+1681,AcmeCorp,CloudPulse,Latency spike,vikram.chopra@novatech.com,Open
+1682,RetailKart,Product18,Incorrect invoice amount,vikram.sharma@novatech.com,In Progress
+1683,GlobalMart,Product16,Latency spike,sneha.kapoor@novatech.com,In Progress
+1684,BlueLine Inc,AutoDocs,Refund not processed,tara.gupta@novatech.com,Closed
+1685,EduTech,Product13,Payment failure during peak hours,anita.sharma@novatech.com,Resolved
+1686,RetailKart,EdgeCompute,Payment failure during peak hours,rohit.das@novatech.com,In Progress
+1687,RetailKart,Product12,Payment failure during peak hours,nikhil.malhotra@novatech.com,Resolved
+1688,RetailKart,PayBridge,Authentication failure,rita.iyer@novatech.com,In Progress
+1689,EduTech,CloudPulse,API timeout,kamal.gupta@novatech.com,In Progress
+1690,EduTech,Product15,Incorrect invoice amount,sneha.chopra@novatech.com,Closed
+1691,FinServ Ltd,FlowTrack,API timeout,sunil.saxena@novatech.com,Open
+1692,HealthPlus,Product14,Failed job retries,rhea.nair@novatech.com,Closed
+1693,HealthPlus,Product12,Payment failure during peak hours,nikhil.sharma@novatech.com,Closed
+1694,AcmeCorp,PayBridge,Failed job retries,priya.gupta@novatech.com,In Progress
+1695,HealthPlus,Product17,Latency spike,divya.pillai@novatech.com,Open
+1696,HealthPlus,HelpDeskPro,Payment failure during peak hours,sunil.chopra@novatech.com,Open
+1697,AcmeCorp,Product12,Failed job retries,priya.saxena@novatech.com,Open
+1698,HealthPlus,Product15,Permission denied,anita.sharma@novatech.com,Closed
+1699,AcmeCorp,NovaPay,API timeout,mark.kapoor@novatech.com,In Progress
+1700,GlobalMart,MarketSense,Data sync issue,rita.singh@novatech.com,Closed
+1701,RetailKart,MarketSense,Authentication failure,rohit.malhotra@novatech.com,Resolved
+1702,AcmeCorp,PayBridge,Payment failure during peak hours,vikram.pillai@novatech.com,Open
+1703,HealthPlus,Product19,API timeout,suresh.gupta@novatech.com,Open
+1704,BlueLine Inc,HelpDeskPro,Authentication failure,arjun.chopra@novatech.com,In Progress
+1705,AcmeCorp,NovaPay,Data sync issue,neha.malhotra@novatech.com,Open
+1706,BlueLine Inc,Product20,Payment failure during peak hours,raj.nair@novatech.com,Open
+1707,HealthPlus,PayBridge,Failed job retries,suresh.rao@novatech.com,Closed
+1708,RetailKart,Product14,Refund not processed,rhea.nair@novatech.com,In Progress
+1709,RetailKart,HelpDeskPro,Data sync issue,leena.pillai@novatech.com,Closed
+1710,HealthPlus,Product20,Refund not processed,arjun.malhotra@novatech.com,Open
+1711,FinServ Ltd,Product12,Permission denied,rita.pillai@novatech.com,Closed
+1712,RetailKart,PayBridge,Memory leak on service,sneha.iyer@novatech.com,In Progress
+1713,RetailKart,AutoDocs,Memory leak on service,neha.iyer@novatech.com,Resolved
+1714,RetailKart,PayBridge,API timeout,suresh.kumar@novatech.com,In Progress
+1715,BlueLine Inc,Insight360,Latency spike,raj.rao@novatech.com,Closed
+1716,EduTech,SecureID,Failed job retries,tara.dsouza@novatech.com,Closed
+1717,RetailKart,AutoDocs,Refund not processed,raj.rao@novatech.com,In Progress
+1718,AcmeCorp,Product19,Failed job retries,nikhil.verma@novatech.com,Resolved
+1719,RetailKart,EdgeCompute,Memory leak on service,priya.chopra@novatech.com,Closed
+1720,GlobalMart,Product12,Permission denied,arjun.saxena@novatech.com,Resolved
+1721,HealthPlus,Product18,Automation trigger not firing,maya.gupta@novatech.com,Open
+1722,BlueLine Inc,AutoDocs,Failed job retries,nikhil.singh@novatech.com,Closed
+1723,BlueLine Inc,Product11,Memory leak on service,anita.mehta@novatech.com,Open
+1724,BlueLine Inc,PayBridge,Refund not processed,samir.bose@novatech.com,Resolved
+1725,RetailKart,AutoDocs,Latency spike,maya.gupta@novatech.com,In Progress
+1726,AcmeCorp,Product16,Payment failure during peak hours,vikram.saxena@novatech.com,Closed
+1727,FinServ Ltd,Product20,Dashboard loading slow,sunil.verma@novatech.com,Resolved
+1728,FinServ Ltd,CloudPulse,Memory leak on service,asha.saxena@novatech.com,In Progress
+1729,GlobalMart,Insight360,Automation trigger not firing,nikhil.das@novatech.com,Awaiting Customer
+1730,RetailKart,Product14,Latency spike,rita.pillai@novatech.com,Resolved
+1731,GlobalMart,SecureID,Incorrect invoice amount,karan.das@novatech.com,Closed
+1732,HealthPlus,FlowTrack,Data sync issue,raj.joshi@novatech.com,Closed
+1733,BlueLine Inc,Product11,Memory leak on service,karan.verma@novatech.com,Open
+1734,RetailKart,HelpDeskPro,Automation trigger not firing,sneha.kumar@novatech.com,Closed
+1735,GlobalMart,FlowTrack,Automation trigger not firing,isha.bose@novatech.com,In Progress
+1736,GlobalMart,Product13,Refund not processed,suresh.rao@novatech.com,In Progress
+1737,AcmeCorp,Insight360,Permission denied,rohit.singh@novatech.com,Closed
+1738,AcmeCorp,Product11,Permission denied,nikhil.reddy@novatech.com,Open
+1739,AcmeCorp,EdgeCompute,API timeout,asha.rao@novatech.com,Resolved
+1740,RetailKart,SecureID,Dashboard loading slow,vikram.pillai@novatech.com,In Progress
+1741,RetailKart,MarketSense,Dashboard loading slow,asha.bose@novatech.com,Open
+1742,RetailKart,Product15,Failed job retries,nikhil.das@novatech.com,Closed
+1743,RetailKart,Product14,Memory leak on service,kamal.gupta@novatech.com,In Progress
+1744,GlobalMart,Product12,API timeout,tara.dsouza@novatech.com,Resolved
+1745,HealthPlus,Product13,Payment failure during peak hours,karan.gupta@novatech.com,Open
+1746,BlueLine Inc,HelpDeskPro,Failed job retries,suresh.malhotra@novatech.com,Closed
+1747,BlueLine Inc,CloudPulse,Incorrect invoice amount,leena.kumar@novatech.com,Closed
+1748,AcmeCorp,Product13,Memory leak on service,dev.das@novatech.com,Closed
+1749,FinServ Ltd,Insight360,Latency spike,rohit.joshi@novatech.com,Closed
+1750,EduTech,NovaPay,Payment failure during peak hours,maya.malhotra@novatech.com,Open
+1751,GlobalMart,Product13,Dashboard loading slow,pooja.malhotra@novatech.com,Open
+1752,EduTech,SecureID,API timeout,asha.rao@novatech.com,Closed
+1753,AcmeCorp,PayBridge,Refund not processed,asha.malhotra@novatech.com,Open
+1754,FinServ Ltd,AutoDocs,Latency spike,sneha.kapoor@novatech.com,Closed
+1755,GlobalMart,CloudPulse,Permission denied,tara.mehta@novatech.com,Closed
+1756,RetailKart,CloudPulse,Dashboard loading slow,sunil.nair@novatech.com,Open
+1757,BlueLine Inc,AutoDocs,Permission denied,arjun.das@novatech.com,Open
+1758,EduTech,Product14,Authentication failure,isha.sharma@novatech.com,Open
+1759,GlobalMart,HelpDeskPro,Failed job retries,maya.kapoor@novatech.com,In Progress
+1760,BlueLine Inc,NovaPay,Payment failure during peak hours,arjun.saxena@novatech.com,Open
+1761,AcmeCorp,Product19,Memory leak on service,raj.das@novatech.com,Open
+1762,AcmeCorp,Product17,Dashboard loading slow,priya.kumar@novatech.com,Closed
+1763,RetailKart,EdgeCompute,Data sync issue,maya.gupta@novatech.com,Open
+1764,AcmeCorp,CloudPulse,Automation trigger not firing,manish.bose@novatech.com,Open
+1765,RetailKart,Product12,Memory leak on service,raj.malhotra@novatech.com,In Progress
+1766,AcmeCorp,CloudPulse,Payment failure during peak hours,priya.iyer@novatech.com,Resolved
+1767,EduTech,MarketSense,Incorrect invoice amount,asha.kapoor@novatech.com,Resolved
+1768,FinServ Ltd,AutoDocs,Failed job retries,pooja.nair@novatech.com,In Progress
+1769,RetailKart,MarketSense,Dashboard loading slow,divya.bose@novatech.com,In Progress
+1770,GlobalMart,AutoDocs,Refund not processed,maya.malhotra@novatech.com,Resolved
+1771,HealthPlus,Product14,Memory leak on service,rita.saxena@novatech.com,Closed
+1772,AcmeCorp,SecureID,Failed job retries,priya.kumar@novatech.com,Open
+1773,HealthPlus,MarketSense,Dashboard loading slow,mark.kapoor@novatech.com,Resolved
+1774,GlobalMart,Product19,Memory leak on service,nikhil.iyer@novatech.com,Open
+1775,GlobalMart,Product12,Latency spike,divya.pillai@novatech.com,Resolved
+1776,HealthPlus,SecureID,Data sync issue,rohit.rao@novatech.com,In Progress
+1777,GlobalMart,Product15,Payment failure during peak hours,dev.patel@novatech.com,Open
+1778,RetailKart,NovaPay,Failed job retries,priya.reddy@novatech.com,Closed
+1779,HealthPlus,Product19,Failed job retries,rohit.bose@novatech.com,Open
+1780,EduTech,Product11,Permission denied,nikhil.das@novatech.com,Closed
+1781,FinServ Ltd,CloudPulse,Refund not processed,asha.malhotra@novatech.com,Closed
+1782,GlobalMart,Product12,Memory leak on service,arjun.reddy@novatech.com,Closed
+1783,BlueLine Inc,Product18,Latency spike,priya.rao@novatech.com,Open
+1784,BlueLine Inc,Product17,Data sync issue,rhea.nair@novatech.com,In Progress
+1785,BlueLine Inc,FlowTrack,Data sync issue,neha.dsouza@novatech.com,Open
+1786,RetailKart,Insight360,Permission denied,raj.nair@novatech.com,Closed
+1787,GlobalMart,Product13,API timeout,suresh.singh@novatech.com,In Progress
+1788,HealthPlus,Product19,Data sync issue,anita.mehta@novatech.com,Resolved
+1789,GlobalMart,Product11,Dashboard loading slow,sunil.nair@novatech.com,Closed
+1790,AcmeCorp,CloudPulse,Refund not processed,tara.pillai@novatech.com,Open
+1791,FinServ Ltd,NovaPay,Dashboard loading slow,isha.saxena@novatech.com,Closed
+1792,FinServ Ltd,PayBridge,Permission denied,pooja.dsouza@novatech.com,Open
+1793,EduTech,Product15,Incorrect invoice amount,kamal.gupta@novatech.com,Resolved
+1794,HealthPlus,EdgeCompute,Data sync issue,manish.iyer@novatech.com,Closed
+1795,FinServ Ltd,Product20,Data sync issue,sunil.iyer@novatech.com,Closed
+1796,EduTech,Product15,Dashboard loading slow,neha.sharma@novatech.com,Closed
+1797,BlueLine Inc,NovaPay,Incorrect invoice amount,rohit.kapoor@novatech.com,Resolved
+1798,HealthPlus,PayBridge,Permission denied,nikhil.das@novatech.com,In Progress
+1799,AcmeCorp,Insight360,Automation trigger not firing,raj.das@novatech.com,Open
+1800,EduTech,Product14,Dashboard loading slow,dev.das@novatech.com,Closed

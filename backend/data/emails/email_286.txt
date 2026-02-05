@@ -1,0 +1,13 @@
+From: manish.bose@novatech.com
+To: kamal.gupta@novatech.com, samir.nair@novatech.com, asha.das@novatech.com
+Subject: Action required: SLA breach
+Date: Tue, 18 Mar 2025 16:25:15
+
+Hi Kamal,
+
+This is regarding Product19.
+Can you share the logs for the latest deployment of Product19?
+
+Thanks,
+Manish Bose
+Data Analyst

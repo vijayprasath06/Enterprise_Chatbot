@@ -1,0 +1,13 @@
+From: karan.verma@novatech.com
+To: rhea.nair@novatech.com, suresh.pillai@novatech.com, suresh.malhotra@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Thu, 09 Jan 2025 03:56:15
+
+Hi Rhea,
+
+This is regarding Insight360.
+Can you share the logs for the latest deployment of Insight360?
+
+Thanks,
+Karan Verma
+CEO

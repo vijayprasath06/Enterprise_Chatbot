@@ -1,0 +1,13 @@
+From: arjun.das@novatech.com
+To: rohit.singh@novatech.com, raj.joshi@novatech.com
+Subject: Critical bug in SecureID Production
+Date: Tue, 29 Apr 2025 18:06:15
+
+Hi Rohit,
+
+This is regarding SecureID.
+Can you share the logs for the latest deployment of SecureID?
+
+Thanks,
+Arjun Das
+Data Scientist

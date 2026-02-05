@@ -1,0 +1,13 @@
+From: dev.patel@novatech.com
+To: pooja.joshi@novatech.com
+Subject: Security incident report
+Date: Tue, 29 Jul 2025 21:26:15
+
+Hi Pooja,
+
+This is regarding Product15.
+We need revised budget approval for Product15 to cover Q4 expenses.
+
+Thanks,
+Dev Patel
+Project Manager

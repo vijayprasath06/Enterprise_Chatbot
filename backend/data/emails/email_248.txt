@@ -1,0 +1,13 @@
+From: divya.pillai@novatech.com
+To: vikram.verma@novatech.com
+Subject: Security incident report
+Date: Fri, 28 Feb 2025 06:48:15
+
+Hi Vikram,
+
+This is regarding AutoDocs.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Divya Pillai
+Project Manager

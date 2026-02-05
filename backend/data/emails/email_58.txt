@@ -1,0 +1,13 @@
+From: divya.rao@novatech.com
+To: anita.singh@novatech.com, maya.kapoor@novatech.com, vikram.rao@novatech.com
+Subject: Deployment schedule for HelpDeskPro
+Date: Mon, 07 Apr 2025 13:14:15
+
+Hi Anita,
+
+This is regarding HelpDeskPro.
+Please prioritize the tasks for HelpDeskPro as discussed in the roadmap meeting.
+
+Thanks,
+Divya Rao
+Data Scientist

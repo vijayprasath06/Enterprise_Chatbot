@@ -1,0 +1,13 @@
+From: dev.saxena@novatech.com
+To: nikhil.malhotra@novatech.com
+Subject: On-call rota for next week
+Date: Fri, 26 Sep 2025 09:23:15
+
+Hi Nikhil,
+
+This is regarding Product13.
+We need revised budget approval for Product13 to cover Q1 expenses.
+
+Thanks,
+Dev Saxena
+Senior Software Engineer

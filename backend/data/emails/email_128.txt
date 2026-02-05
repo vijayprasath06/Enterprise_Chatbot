@@ -1,0 +1,13 @@
+From: nikhil.dsouza@novatech.com
+To: rita.gupta@novatech.com, pooja.mehta@novatech.com
+Subject: Weekly status update
+Date: Fri, 14 Mar 2025 23:27:15
+
+Hi Rita,
+
+This is regarding Product18.
+Can you share the logs for the latest deployment of Product18?
+
+Thanks,
+Nikhil Dsouza
+HR Manager

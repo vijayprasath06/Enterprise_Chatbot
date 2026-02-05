@@ -1,0 +1,13 @@
+From: karan.mehta@novatech.com
+To: priya.rao@novatech.com, arjun.saxena@novatech.com, priya.mehta@novatech.com
+Subject: Deployment schedule for PayBridge
+Date: Wed, 05 Feb 2025 18:11:15
+
+Hi Priya,
+
+This is regarding PayBridge.
+Client AcmeCorp reported an issue: Latency spike.
+
+Thanks,
+Karan Mehta
+HR Manager

@@ -1,0 +1,13 @@
+From: vikram.singh@novatech.com
+To: kamal.patel@novatech.com, rita.rao@novatech.com, asha.kapoor@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Mon, 13 Oct 2025 16:17:15
+
+Hi Kamal,
+
+This is regarding Product17.
+Can you share the logs for the latest deployment of Product17?
+
+Thanks,
+Vikram Singh
+Finance Manager

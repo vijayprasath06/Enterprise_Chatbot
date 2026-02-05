@@ -1,0 +1,13 @@
+From: asha.malhotra@novatech.com
+To: isha.mehta@novatech.com, rohit.das@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Tue, 28 Jan 2025 17:03:15
+
+Hi Isha,
+
+This is regarding FlowTrack.
+Client GlobalMart reported an issue: Permission denied.
+
+Thanks,
+Asha Malhotra
+Sales Executive

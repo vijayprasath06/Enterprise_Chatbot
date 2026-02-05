@@ -1,0 +1,13 @@
+From: divya.bose@novatech.com
+To: sunil.malhotra@novatech.com, mark.bose@novatech.com, samir.nair@novatech.com
+Subject: Request: Data for Q2 churn analysis
+Date: Tue, 23 Sep 2025 16:59:15
+
+Hi Sunil,
+
+This is regarding SecureID.
+Can you share the logs for the latest deployment of SecureID?
+
+Thanks,
+Divya Bose
+Data Analyst

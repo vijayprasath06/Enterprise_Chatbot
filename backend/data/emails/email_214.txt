@@ -1,0 +1,13 @@
+From: maya.singh@novatech.com
+To: maya.gupta@novatech.com, pooja.reddy@novatech.com
+Subject: Critical bug in FlowTrack Production
+Date: Fri, 28 Feb 2025 12:28:15
+
+Hi Maya,
+
+This is regarding FlowTrack.
+Can you share the logs for the latest deployment of FlowTrack?
+
+Thanks,
+Maya Singh
+Sales Executive

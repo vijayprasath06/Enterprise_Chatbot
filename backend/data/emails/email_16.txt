@@ -1,0 +1,13 @@
+From: anita.singh@novatech.com
+To: asha.saxena@novatech.com, raj.pillai@novatech.com
+Subject: Weekly status update
+Date: Fri, 20 Dec 2024 06:51:15
+
+Hi Asha,
+
+This is regarding CloudPulse.
+Can you share the logs for the latest deployment of CloudPulse?
+
+Thanks,
+Anita Singh
+Sales Executive

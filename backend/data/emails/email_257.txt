@@ -1,0 +1,13 @@
+From: sunil.saxena@novatech.com
+To: sneha.iyer@novatech.com, vikram.pillai@novatech.com
+Subject: Deployment schedule for AutoDocs
+Date: Fri, 24 Oct 2025 18:00:15
+
+Hi Sneha,
+
+This is regarding AutoDocs.
+Client AcmeCorp reported an issue: Failed job retries.
+
+Thanks,
+Sunil Saxena
+CTO

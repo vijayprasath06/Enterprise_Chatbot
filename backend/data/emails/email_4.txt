@@ -1,0 +1,13 @@
+From: anita.sharma@novatech.com
+To: divya.malhotra@novatech.com, maya.gupta@novatech.com
+Subject: Budget allocation for Product15
+Date: Sun, 12 Oct 2025 12:55:15
+
+Hi Divya,
+
+This is regarding Product15.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Anita Sharma
+CTO

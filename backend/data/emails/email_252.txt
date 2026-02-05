@@ -1,0 +1,13 @@
+From: tara.mehta@novatech.com
+To: rita.saxena@novatech.com
+Subject: Deployment schedule for Product11
+Date: Fri, 02 May 2025 04:37:15
+
+Hi Rita,
+
+This is regarding Product11.
+Please prioritize the tasks for Product11 as discussed in the roadmap meeting.
+
+Thanks,
+Tara Mehta
+Data Scientist

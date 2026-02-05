@@ -1,0 +1,13 @@
+From: anita.kapoor@novatech.com
+To: raj.dsouza@novatech.com, rhea.nair@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Fri, 08 Aug 2025 11:22:15
+
+Hi Raj,
+
+This is regarding Product14.
+Client BlueLine Inc reported an issue: Payment failure during peak hours.
+
+Thanks,
+Anita Kapoor
+Sales Executive

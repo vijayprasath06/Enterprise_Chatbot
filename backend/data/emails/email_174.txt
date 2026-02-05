@@ -1,0 +1,13 @@
+From: mark.nair@novatech.com
+To: mark.mehta@novatech.com, sunil.verma@novatech.com, nikhil.verma@novatech.com
+Subject: Weekly status update
+Date: Sun, 04 May 2025 19:01:15
+
+Hi Mark,
+
+This is regarding Product11.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Mark Nair
+CTO

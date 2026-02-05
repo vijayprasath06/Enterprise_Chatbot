@@ -1,0 +1,13 @@
+From: maya.pillai@novatech.com
+To: arjun.mehta@novatech.com, nikhil.sharma@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Mon, 20 Oct 2025 01:54:15
+
+Hi Arjun,
+
+This is regarding EdgeCompute.
+Can you share the logs for the latest deployment of EdgeCompute?
+
+Thanks,
+Maya Pillai
+CTO

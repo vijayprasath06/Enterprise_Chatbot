@@ -1,0 +1,13 @@
+From: pooja.mehta@novatech.com
+To: tara.verma@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Sat, 14 Jun 2025 21:01:15
+
+Hi Tara,
+
+This is regarding Product16.
+Can you share the logs for the latest deployment of Product16?
+
+Thanks,
+Pooja Mehta
+Finance Manager

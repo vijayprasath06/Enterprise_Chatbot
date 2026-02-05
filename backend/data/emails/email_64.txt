@@ -1,0 +1,13 @@
+From: vikram.iyer@novatech.com
+To: divya.singh@novatech.com, maya.sharma@novatech.com
+Subject: Action required: SLA breach
+Date: Wed, 30 Apr 2025 04:10:15
+
+Hi Divya,
+
+This is regarding Product12.
+Client FinServ Ltd reported an issue: Automation trigger not firing.
+
+Thanks,
+Vikram Iyer
+Senior Software Engineer

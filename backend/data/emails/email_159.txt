@@ -1,0 +1,13 @@
+From: rhea.nair@novatech.com
+To: dev.patel@novatech.com
+Subject: Request: Data for Q4 churn analysis
+Date: Thu, 31 Jul 2025 19:17:15
+
+Hi Dev,
+
+This is regarding Product16.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Rhea Nair
+Senior Software Engineer

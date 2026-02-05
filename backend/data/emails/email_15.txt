@@ -1,0 +1,13 @@
+From: mark.saxena@novatech.com
+To: rita.verma@novatech.com, asha.sharma@novatech.com, pooja.dsouza@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Wed, 23 Jul 2025 21:56:15
+
+Hi Rita,
+
+This is regarding NovaPay.
+Client EduTech reported an issue: Latency spike.
+
+Thanks,
+Mark Saxena
+Software Engineer

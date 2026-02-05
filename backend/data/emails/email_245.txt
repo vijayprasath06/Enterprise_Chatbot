@@ -1,0 +1,13 @@
+From: rohit.das@novatech.com
+To: neha.mehta@novatech.com
+Subject: Budget allocation for SecureID
+Date: Tue, 13 May 2025 18:12:15
+
+Hi Neha,
+
+This is regarding SecureID.
+Client BlueLine Inc reported an issue: Dashboard loading slow.
+
+Thanks,
+Rohit Das
+VP Product

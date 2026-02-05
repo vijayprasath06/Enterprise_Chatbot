@@ -1,0 +1,13 @@
+From: sunil.verma@novatech.com
+To: vikram.pillai@novatech.com
+Subject: Action required: SLA breach
+Date: Mon, 01 Sep 2025 20:43:15
+
+Hi Vikram,
+
+This is regarding AutoDocs.
+Client BlueLine Inc reported an issue: Latency spike.
+
+Thanks,
+Sunil Verma
+Data Scientist

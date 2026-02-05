@@ -1,0 +1,13 @@
+From: raj.das@novatech.com
+To: mark.bose@novatech.com
+Subject: Security incident report
+Date: Sat, 19 Apr 2025 10:42:15
+
+Hi Mark,
+
+This is regarding Product12.
+We need revised budget approval for Product12 to cover Q1 expenses.
+
+Thanks,
+Raj Das
+Support Lead

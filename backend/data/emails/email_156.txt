@@ -1,0 +1,13 @@
+From: suresh.nair@novatech.com
+To: rita.pillai@novatech.com, karan.pillai@novatech.com, karan.gupta@novatech.com
+Subject: Security incident report
+Date: Mon, 26 May 2025 20:44:15
+
+Hi Rita,
+
+This is regarding Product15.
+Can you share the logs for the latest deployment of Product15?
+
+Thanks,
+Suresh Nair
+Support Lead

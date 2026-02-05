@@ -1,0 +1,13 @@
+From: nikhil.das@novatech.com
+To: mark.bose@novatech.com, anita.mehta@novatech.com, tara.gupta@novatech.com
+Subject: Customer complaint escalation: GlobalMart
+Date: Fri, 10 Jan 2025 08:47:15
+
+Hi Mark,
+
+This is regarding HelpDeskPro.
+Can you share the logs for the latest deployment of HelpDeskPro?
+
+Thanks,
+Nikhil Das
+Finance Manager

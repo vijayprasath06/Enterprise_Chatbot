@@ -1,0 +1,13 @@
+From: anita.kapoor@novatech.com
+To: tara.gupta@novatech.com, vikram.pillai@novatech.com, pooja.mehta@novatech.com
+Subject: Security incident report
+Date: Tue, 09 Sep 2025 07:04:15
+
+Hi Tara,
+
+This is regarding NovaPay.
+Please prioritize the tasks for NovaPay as discussed in the roadmap meeting.
+
+Thanks,
+Anita Kapoor
+Sales Executive

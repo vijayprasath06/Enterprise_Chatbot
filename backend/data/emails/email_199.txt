@@ -1,0 +1,13 @@
+From: kamal.reddy@novatech.com
+To: sneha.kumar@novatech.com, rohit.verma@novatech.com, nikhil.das@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Mon, 06 Oct 2025 19:20:15
+
+Hi Sneha,
+
+This is regarding Product11.
+Please prioritize the tasks for Product11 as discussed in the roadmap meeting.
+
+Thanks,
+Kamal Reddy
+VP Product

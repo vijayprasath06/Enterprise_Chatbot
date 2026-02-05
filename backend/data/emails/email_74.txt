@@ -1,0 +1,13 @@
+From: rita.gupta@novatech.com
+To: sunil.saxena@novatech.com, tara.bose@novatech.com
+Subject: Budget allocation for SecureID
+Date: Sat, 21 Dec 2024 15:41:15
+
+Hi Sunil,
+
+This is regarding SecureID.
+Can you share the logs for the latest deployment of SecureID?
+
+Thanks,
+Rita Gupta
+Software Engineer

@@ -1,0 +1,13 @@
+From: vikram.chopra@novatech.com
+To: sneha.iyer@novatech.com
+Subject: Budget allocation for SecureID
+Date: Tue, 14 Oct 2025 08:38:15
+
+Hi Sneha,
+
+This is regarding SecureID.
+Please prioritize the tasks for SecureID as discussed in the roadmap meeting.
+
+Thanks,
+Vikram Chopra
+CTO

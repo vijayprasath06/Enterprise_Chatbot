@@ -1,0 +1,13 @@
+From: rohit.rao@novatech.com
+To: sunil.chopra@novatech.com
+Subject: Request: Data for Q1 churn analysis
+Date: Fri, 02 May 2025 11:42:15
+
+Hi Sunil,
+
+This is regarding Product16.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Rohit Rao
+Senior Software Engineer

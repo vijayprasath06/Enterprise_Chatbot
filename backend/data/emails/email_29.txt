@@ -1,0 +1,13 @@
+From: suresh.singh@novatech.com
+To: suresh.gupta@novatech.com, karan.chopra@novatech.com
+Subject: On-call rota for next week
+Date: Thu, 23 Oct 2025 16:45:15
+
+Hi Suresh,
+
+This is regarding SecureID.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Suresh Singh
+CTO

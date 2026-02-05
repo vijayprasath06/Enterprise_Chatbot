@@ -1,0 +1,13 @@
+From: maya.kapoor@novatech.com
+To: divya.joshi@novatech.com, leena.kumar@novatech.com
+Subject: Action required: SLA breach
+Date: Sun, 11 May 2025 07:28:15
+
+Hi Divya,
+
+This is regarding CloudPulse.
+Please prioritize the tasks for CloudPulse as discussed in the roadmap meeting.
+
+Thanks,
+Maya Kapoor
+Data Analyst

@@ -1,0 +1,13 @@
+From: dev.bose@novatech.com
+To: neha.iyer@novatech.com, divya.malhotra@novatech.com, leena.joshi@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Sun, 03 Aug 2025 06:04:15
+
+Hi Neha,
+
+This is regarding Product16.
+Please prioritize the tasks for Product16 as discussed in the roadmap meeting.
+
+Thanks,
+Dev Bose
+CTO

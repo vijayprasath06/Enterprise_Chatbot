@@ -1,0 +1,13 @@
+From: pooja.das@novatech.com
+To: manish.bose@novatech.com
+Subject: Budget allocation for Product13
+Date: Fri, 24 Oct 2025 04:44:15
+
+Hi Manish,
+
+This is regarding Product13.
+Can you share the logs for the latest deployment of Product13?
+
+Thanks,
+Pooja Das
+VP Product

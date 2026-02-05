@@ -1,0 +1,13 @@
+From: karan.pillai@novatech.com
+To: pooja.das@novatech.com
+Subject: Weekly status update
+Date: Tue, 22 Jul 2025 13:58:15
+
+Hi Pooja,
+
+This is regarding Product11.
+Please prioritize the tasks for Product11 as discussed in the roadmap meeting.
+
+Thanks,
+Karan Pillai
+CTO

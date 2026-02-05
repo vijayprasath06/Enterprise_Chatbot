@@ -1,0 +1,13 @@
+From: vikram.verma@novatech.com
+To: suresh.chopra@novatech.com
+Subject: Critical bug in Product12 Production
+Date: Fri, 14 Nov 2025 08:52:15
+
+Hi Suresh,
+
+This is regarding Product12.
+Client FinServ Ltd reported an issue: Authentication failure.
+
+Thanks,
+Vikram Verma
+Software Engineer

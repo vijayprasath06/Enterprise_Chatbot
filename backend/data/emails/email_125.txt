@@ -1,0 +1,13 @@
+From: nikhil.das@novatech.com
+To: divya.bose@novatech.com
+Subject: Critical bug in EdgeCompute Production
+Date: Fri, 25 Apr 2025 03:13:15
+
+Hi Divya,
+
+This is regarding EdgeCompute.
+Please prioritize the tasks for EdgeCompute as discussed in the roadmap meeting.
+
+Thanks,
+Nikhil Das
+Finance Manager

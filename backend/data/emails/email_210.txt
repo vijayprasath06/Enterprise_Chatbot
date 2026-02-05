@@ -1,0 +1,13 @@
+From: asha.joshi@novatech.com
+To: neha.mehta@novatech.com, rita.saxena@novatech.com
+Subject: Security incident report
+Date: Mon, 29 Sep 2025 07:53:15
+
+Hi Neha,
+
+This is regarding PayBridge.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Asha Joshi
+Sales Executive

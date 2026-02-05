@@ -1,0 +1,13 @@
+From: suresh.malhotra@novatech.com
+To: sunil.verma@novatech.com, rita.singh@novatech.com, suresh.malhotra@novatech.com
+Subject: Weekly status update
+Date: Thu, 22 May 2025 08:05:15
+
+Hi Sunil,
+
+This is regarding Product11.
+Please prioritize the tasks for Product11 as discussed in the roadmap meeting.
+
+Thanks,
+Suresh Malhotra
+VP Product

@@ -1,0 +1,13 @@
+From: rhea.chopra@novatech.com
+To: rohit.rao@novatech.com
+Subject: Deployment schedule for Product17
+Date: Mon, 21 Jul 2025 11:05:15
+
+Hi Rohit,
+
+This is regarding Product17.
+Can you share the logs for the latest deployment of Product17?
+
+Thanks,
+Rhea Chopra
+HR Manager

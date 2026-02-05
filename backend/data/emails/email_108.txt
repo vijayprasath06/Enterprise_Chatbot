@@ -1,0 +1,13 @@
+From: rita.saxena@novatech.com
+To: nikhil.verma@novatech.com, rohit.das@novatech.com
+Subject: On-call rota for next week
+Date: Mon, 20 Jan 2025 02:31:15
+
+Hi Nikhil,
+
+This is regarding Insight360.
+Please prioritize the tasks for Insight360 as discussed in the roadmap meeting.
+
+Thanks,
+Rita Saxena
+CTO

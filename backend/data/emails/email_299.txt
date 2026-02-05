@@ -1,0 +1,13 @@
+From: rita.reddy@novatech.com
+To: rohit.malhotra@novatech.com
+Subject: Customer complaint escalation: FinServ Ltd
+Date: Wed, 01 Oct 2025 14:32:15
+
+Hi Rohit,
+
+This is regarding Product17.
+Can you share the logs for the latest deployment of Product17?
+
+Thanks,
+Rita Reddy
+VP Product

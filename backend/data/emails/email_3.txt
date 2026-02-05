@@ -1,0 +1,13 @@
+From: asha.das@novatech.com
+To: priya.patel@novatech.com, pooja.chopra@novatech.com, maya.kapoor@novatech.com
+Subject: Security incident report
+Date: Sat, 23 Aug 2025 02:25:15
+
+Hi Priya,
+
+This is regarding Product13.
+We need revised budget approval for Product13 to cover Q2 expenses.
+
+Thanks,
+Asha Das
+Data Analyst

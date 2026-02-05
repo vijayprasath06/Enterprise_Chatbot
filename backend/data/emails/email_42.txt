@@ -1,0 +1,13 @@
+From: sneha.kapoor@novatech.com
+To: karan.mehta@novatech.com
+Subject: Security incident report
+Date: Sat, 06 Sep 2025 06:47:15
+
+Hi Karan,
+
+This is regarding Product16.
+Please prioritize the tasks for Product16 as discussed in the roadmap meeting.
+
+Thanks,
+Sneha Kapoor
+Finance Manager

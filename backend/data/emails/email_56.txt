@@ -1,0 +1,13 @@
+From: maya.patel@novatech.com
+To: sunil.sharma@novatech.com, asha.saxena@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Mon, 07 Jul 2025 01:32:15
+
+Hi Sunil,
+
+This is regarding EdgeCompute.
+Please prioritize the tasks for EdgeCompute as discussed in the roadmap meeting.
+
+Thanks,
+Maya Patel
+Software Engineer

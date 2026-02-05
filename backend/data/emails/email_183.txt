@@ -1,0 +1,13 @@
+From: sunil.rao@novatech.com
+To: nikhil.das@novatech.com
+Subject: Budget allocation for Product11
+Date: Sun, 16 Nov 2025 14:52:15
+
+Hi Nikhil,
+
+This is regarding Product11.
+Client AcmeCorp reported an issue: Payment failure during peak hours.
+
+Thanks,
+Sunil Rao
+CTO

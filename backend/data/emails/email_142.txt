@@ -1,0 +1,13 @@
+From: tara.dsouza@novatech.com
+To: tara.bose@novatech.com, arjun.malhotra@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Sun, 06 Jul 2025 15:20:15
+
+Hi Tara,
+
+This is regarding CloudPulse.
+Client RetailKart reported an issue: Permission denied.
+
+Thanks,
+Tara Dsouza
+Project Manager

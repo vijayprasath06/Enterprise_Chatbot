@@ -1,0 +1,13 @@
+From: neha.sharma@novatech.com
+To: rita.nair@novatech.com, asha.kapoor@novatech.com
+Subject: Action required: SLA breach
+Date: Sat, 12 Apr 2025 21:40:15
+
+Hi Rita,
+
+This is regarding Product14.
+Client RetailKart reported an issue: Latency spike.
+
+Thanks,
+Neha Sharma
+CEO

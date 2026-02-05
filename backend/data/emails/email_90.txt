@@ -1,0 +1,13 @@
+From: leena.reddy@novatech.com
+To: rhea.nair@novatech.com
+Subject: On-call rota for next week
+Date: Sat, 15 Mar 2025 08:10:15
+
+Hi Rhea,
+
+This is regarding Product15.
+Can you share the logs for the latest deployment of Product15?
+
+Thanks,
+Leena Reddy
+Project Manager

@@ -1,0 +1,13 @@
+From: leena.reddy@novatech.com
+To: rohit.singh@novatech.com, karan.chopra@novatech.com, nikhil.saxena@novatech.com
+Subject: On-call rota for next week
+Date: Mon, 30 Dec 2024 12:32:15
+
+Hi Rohit,
+
+This is regarding Product14.
+Can you share the logs for the latest deployment of Product14?
+
+Thanks,
+Leena Reddy
+Project Manager

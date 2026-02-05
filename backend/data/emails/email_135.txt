@@ -1,0 +1,13 @@
+From: sunil.saxena@novatech.com
+To: mark.bose@novatech.com
+Subject: Critical bug in Product20 Production
+Date: Tue, 21 Oct 2025 10:34:15
+
+Hi Mark,
+
+This is regarding Product20.
+Please prioritize the tasks for Product20 as discussed in the roadmap meeting.
+
+Thanks,
+Sunil Saxena
+HR Manager

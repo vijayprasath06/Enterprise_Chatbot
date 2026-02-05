@@ -1,0 +1,13 @@
+From: vikram.rao@novatech.com
+To: tara.dsouza@novatech.com
+Subject: Security incident report
+Date: Mon, 08 Sep 2025 03:35:15
+
+Hi Tara,
+
+This is regarding Product14.
+Can you share the logs for the latest deployment of Product14?
+
+Thanks,
+Vikram Rao
+Data Scientist

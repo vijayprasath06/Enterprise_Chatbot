@@ -1,0 +1,13 @@
+From: divya.dsouza@novatech.com
+To: karan.pillai@novatech.com
+Subject: Deployment schedule for Product16
+Date: Tue, 15 Jul 2025 13:54:15
+
+Hi Karan,
+
+This is regarding Product16.
+Can you share the logs for the latest deployment of Product16?
+
+Thanks,
+Divya Dsouza
+Data Analyst

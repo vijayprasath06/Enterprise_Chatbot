@@ -1,0 +1,13 @@
+From: arjun.saxena@novatech.com
+To: rhea.joshi@novatech.com, nikhil.verma@novatech.com, raj.rao@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Thu, 03 Apr 2025 00:19:15
+
+Hi Rhea,
+
+This is regarding FlowTrack.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Arjun Saxena
+Senior Software Engineer

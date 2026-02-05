@@ -1,0 +1,13 @@
+From: isha.nair@novatech.com
+To: pooja.nair@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Sun, 23 Nov 2025 10:44:15
+
+Hi Pooja,
+
+This is regarding Product15.
+Please prioritize the tasks for Product15 as discussed in the roadmap meeting.
+
+Thanks,
+Isha Nair
+Data Scientist

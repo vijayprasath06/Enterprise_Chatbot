@@ -1,0 +1,13 @@
+From: isha.bose@novatech.com
+To: sunil.nair@novatech.com, nikhil.das@novatech.com, karan.pillai@novatech.com
+Subject: Deployment schedule for Product16
+Date: Wed, 15 Oct 2025 21:44:15
+
+Hi Sunil,
+
+This is regarding Product16.
+Client RetailKart reported an issue: API timeout.
+
+Thanks,
+Isha Bose
+Finance Manager

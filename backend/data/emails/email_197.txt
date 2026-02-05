@@ -1,0 +1,13 @@
+From: divya.singh@novatech.com
+To: maya.singh@novatech.com, asha.saxena@novatech.com, asha.das@novatech.com
+Subject: Customer complaint escalation: HealthPlus
+Date: Tue, 29 Jul 2025 09:09:15
+
+Hi Maya,
+
+This is regarding Insight360.
+Client HealthPlus reported an issue: Latency spike.
+
+Thanks,
+Divya Singh
+Data Scientist

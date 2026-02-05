@@ -1,0 +1,13 @@
+From: vikram.rao@novatech.com
+To: karan.das@novatech.com, samir.nair@novatech.com, tara.saxena@novatech.com
+Subject: Customer complaint escalation: BlueLine Inc
+Date: Wed, 06 Aug 2025 09:20:15
+
+Hi Karan,
+
+This is regarding Product18.
+Can you share the logs for the latest deployment of Product18?
+
+Thanks,
+Vikram Rao
+Data Scientist

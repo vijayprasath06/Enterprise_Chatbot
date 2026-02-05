@@ -1,0 +1,13 @@
+From: divya.rao@novatech.com
+To: tara.gupta@novatech.com
+Subject: Customer complaint escalation: RetailKart
+Date: Tue, 11 Mar 2025 12:57:15
+
+Hi Tara,
+
+This is regarding Product20.
+Can you share the logs for the latest deployment of Product20?
+
+Thanks,
+Divya Rao
+Data Scientist

@@ -1,0 +1,13 @@
+From: asha.chopra@novatech.com
+To: karan.mehta@novatech.com, nikhil.iyer@novatech.com
+Subject: Deployment schedule for FlowTrack
+Date: Sun, 09 Mar 2025 10:30:15
+
+Hi Karan,
+
+This is regarding FlowTrack.
+Please prioritize the tasks for FlowTrack as discussed in the roadmap meeting.
+
+Thanks,
+Asha Chopra
+CEO

@@ -1,0 +1,13 @@
+From: pooja.saxena@novatech.com
+To: tara.bose@novatech.com
+Subject: Weekly status update
+Date: Wed, 17 Sep 2025 22:13:15
+
+Hi Tara,
+
+This is regarding AutoDocs.
+Please prioritize the tasks for AutoDocs as discussed in the roadmap meeting.
+
+Thanks,
+Pooja Saxena
+VP Product

@@ -1,0 +1,13 @@
+From: vikram.sharma@novatech.com
+To: divya.mehta@novatech.com, dev.das@novatech.com, nikhil.reddy@novatech.com
+Subject: Critical bug in NovaPay Production
+Date: Sat, 30 Aug 2025 14:23:15
+
+Hi Divya,
+
+This is regarding NovaPay.
+Can you share the logs for the latest deployment of NovaPay?
+
+Thanks,
+Vikram Sharma
+Data Scientist

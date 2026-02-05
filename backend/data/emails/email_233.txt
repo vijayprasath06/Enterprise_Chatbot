@@ -1,0 +1,13 @@
+From: maya.pillai@novatech.com
+To: samir.pillai@novatech.com, manish.bose@novatech.com
+Subject: Request: Data for Q4 churn analysis
+Date: Tue, 08 Jul 2025 04:17:15
+
+Hi Samir,
+
+This is regarding Product18.
+Can you share the logs for the latest deployment of Product18?
+
+Thanks,
+Maya Pillai
+CTO

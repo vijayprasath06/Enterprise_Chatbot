@@ -1,0 +1,13 @@
+From: pooja.das@novatech.com
+To: mark.bose@novatech.com
+Subject: On-call rota for next week
+Date: Sat, 22 Nov 2025 23:16:15
+
+Hi Mark,
+
+This is regarding MarketSense.
+Client EduTech reported an issue: Failed job retries.
+
+Thanks,
+Pooja Das
+VP Product

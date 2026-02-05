@@ -1,0 +1,13 @@
+From: suresh.kumar@novatech.com
+To: karan.gupta@novatech.com
+Subject: Critical bug in MarketSense Production
+Date: Sat, 01 Mar 2025 12:28:15
+
+Hi Karan,
+
+This is regarding MarketSense.
+Client GlobalMart reported an issue: Dashboard loading slow.
+
+Thanks,
+Suresh Kumar
+Finance Manager

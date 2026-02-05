@@ -1,0 +1,13 @@
+From: arjun.reddy@novatech.com
+To: maya.patel@novatech.com, priya.mehta@novatech.com, tara.dsouza@novatech.com
+Subject: Security incident report
+Date: Thu, 24 Jul 2025 01:04:15
+
+Hi Maya,
+
+This is regarding Product13.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Arjun Reddy
+Support Lead

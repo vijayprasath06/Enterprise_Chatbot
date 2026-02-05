@@ -1,0 +1,13 @@
+From: rohit.rao@novatech.com
+To: maya.pillai@novatech.com, sunil.dsouza@novatech.com
+Subject: Weekly status update
+Date: Thu, 03 Apr 2025 13:40:15
+
+Hi Maya,
+
+This is regarding Product14.
+Can you share the logs for the latest deployment of Product14?
+
+Thanks,
+Rohit Rao
+Senior Software Engineer

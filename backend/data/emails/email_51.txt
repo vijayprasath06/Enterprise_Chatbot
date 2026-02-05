@@ -1,0 +1,13 @@
+From: leena.reddy@novatech.com
+To: vikram.rao@novatech.com
+Subject: On-call rota for next week
+Date: Fri, 17 Oct 2025 19:42:15
+
+Hi Vikram,
+
+This is regarding Product20.
+Client AcmeCorp reported an issue: Incorrect invoice amount.
+
+Thanks,
+Leena Reddy
+Support Lead

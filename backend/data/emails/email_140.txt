@@ -1,0 +1,13 @@
+From: nikhil.verma@novatech.com
+To: karan.gupta@novatech.com, rita.verma@novatech.com, anita.mehta@novatech.com
+Subject: Security incident report
+Date: Mon, 14 Jul 2025 09:53:15
+
+Hi Karan,
+
+This is regarding Product16.
+Please prioritize the tasks for Product16 as discussed in the roadmap meeting.
+
+Thanks,
+Nikhil Verma
+Data Scientist

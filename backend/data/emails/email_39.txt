@@ -1,0 +1,13 @@
+From: tara.dsouza@novatech.com
+To: rhea.chopra@novatech.com, neha.rao@novatech.com
+Subject: Weekly status update
+Date: Mon, 10 Nov 2025 23:04:15
+
+Hi Rhea,
+
+This is regarding Product17.
+Can you share the logs for the latest deployment of Product17?
+
+Thanks,
+Tara Dsouza
+Finance Manager

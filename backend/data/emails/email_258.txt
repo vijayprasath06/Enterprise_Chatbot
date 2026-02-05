@@ -1,0 +1,13 @@
+From: sunil.nair@novatech.com
+To: tara.dsouza@novatech.com, divya.malhotra@novatech.com, karan.mehta@novatech.com
+Subject: Security incident report
+Date: Sun, 23 Feb 2025 23:38:15
+
+Hi Tara,
+
+This is regarding Product13.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Sunil Nair
+HR Manager

@@ -1,0 +1,13 @@
+From: vikram.saxena@novatech.com
+To: manish.malhotra@novatech.com
+Subject: Security incident report
+Date: Sun, 07 Dec 2025 02:24:15
+
+Hi Manish,
+
+This is regarding Product14.
+Please prioritize the tasks for Product14 as discussed in the roadmap meeting.
+
+Thanks,
+Vikram Saxena
+Data Scientist

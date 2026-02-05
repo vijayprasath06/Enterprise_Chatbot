@@ -1,0 +1,13 @@
+From: rita.nair@novatech.com
+To: rhea.nair@novatech.com, kamal.das@novatech.com
+Subject: Request: Data for Q3 churn analysis
+Date: Sun, 27 Jul 2025 09:22:15
+
+Hi Rhea,
+
+This is regarding Product17.
+Please prioritize the tasks for Product17 as discussed in the roadmap meeting.
+
+Thanks,
+Rita Nair
+Data Analyst

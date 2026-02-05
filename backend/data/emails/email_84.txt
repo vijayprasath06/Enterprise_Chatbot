@@ -1,0 +1,13 @@
+From: divya.bose@novatech.com
+To: divya.joshi@novatech.com, asha.saxena@novatech.com
+Subject: Request: Data for Q2 churn analysis
+Date: Mon, 23 Jun 2025 04:14:15
+
+Hi Divya,
+
+This is regarding NovaPay.
+Can you share the logs for the latest deployment of NovaPay?
+
+Thanks,
+Divya Bose
+Support Lead

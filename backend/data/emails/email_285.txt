@@ -1,0 +1,13 @@
+From: sneha.kumar@novatech.com
+To: divya.malhotra@novatech.com
+Subject: Meeting: Roadmap discussion
+Date: Wed, 08 Oct 2025 11:25:15
+
+Hi Divya,
+
+This is regarding MarketSense.
+Can you share the logs for the latest deployment of MarketSense?
+
+Thanks,
+Sneha Kumar
+Data Scientist

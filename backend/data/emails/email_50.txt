@@ -1,0 +1,13 @@
+From: sunil.patel@novatech.com
+To: vikram.pillai@novatech.com, maya.kapoor@novatech.com, divya.bose@novatech.com
+Subject: On-call rota for next week
+Date: Fri, 07 Mar 2025 10:30:15
+
+Hi Vikram,
+
+This is regarding Product20.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Sunil Patel
+Data Analyst

@@ -1,0 +1,13 @@
+From: arjun.kumar@novatech.com
+To: manish.patel@novatech.com, pooja.chopra@novatech.com
+Subject: Critical bug in PayBridge Production
+Date: Sun, 08 Dec 2024 12:34:15
+
+Hi Manish,
+
+This is regarding PayBridge.
+We need revised budget approval for PayBridge to cover Q1 expenses.
+
+Thanks,
+Arjun Kumar
+Finance Manager

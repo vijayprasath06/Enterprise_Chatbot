@@ -1,0 +1,13 @@
+From: asha.joshi@novatech.com
+To: isha.bose@novatech.com, asha.bose@novatech.com
+Subject: Security incident report
+Date: Sun, 29 Dec 2024 21:11:15
+
+Hi Isha,
+
+This is regarding Product15.
+Client EduTech reported an issue: Incorrect invoice amount.
+
+Thanks,
+Asha Joshi
+Sales Executive

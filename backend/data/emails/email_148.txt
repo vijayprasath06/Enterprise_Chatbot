@@ -1,0 +1,13 @@
+From: suresh.nair@novatech.com
+To: divya.chopra@novatech.com, vikram.rao@novatech.com
+Subject: Weekly status update
+Date: Tue, 08 Apr 2025 01:27:15
+
+Hi Divya,
+
+This is regarding AutoDocs.
+Let's schedule a call with the customer to understand the SLA breach.
+
+Thanks,
+Suresh Nair
+Support Lead

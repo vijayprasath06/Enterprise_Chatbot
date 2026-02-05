@@ -1,0 +1,13 @@
+From: isha.bose@novatech.com
+To: sneha.iyer@novatech.com, neha.malhotra@novatech.com, sunil.saxena@novatech.com
+Subject: Request: Data for Q1 churn analysis
+Date: Mon, 13 Jan 2025 08:45:15
+
+Hi Sneha,
+
+This is regarding AutoDocs.
+Can you share the logs for the latest deployment of AutoDocs?
+
+Thanks,
+Isha Bose
+Finance Manager

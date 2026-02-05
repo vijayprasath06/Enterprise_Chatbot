@@ -1,0 +1,13 @@
+From: tara.bose@novatech.com
+To: nikhil.sharma@novatech.com
+Subject: Weekly status update
+Date: Thu, 30 Oct 2025 08:21:15
+
+Hi Nikhil,
+
+This is regarding Product18.
+Client EduTech reported an issue: Data sync issue.
+
+Thanks,
+Tara Bose
+CTO
