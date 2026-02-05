@@ -3,6 +3,9 @@
 ### Infosys Springboard Internship Project 
 **Author:** Vijay Prasath | **Batch:** 2026
 
+### Agile document 
+https://drive.google.com/drive/u/0/folders/199R2wOkqlm3tX1OkGCWPkGptZNY0qeBR
+
 ## 🚀 Overview
 This project is an **Enterprise Knowledge Assistant** designed to answer queries about Infosys using a **Hybrid Retrieval-Augmented Generation (RAG)** approach. It combines the precision of a **Neo4j Knowledge Graph** with the semantic understanding of a **FAISS Vector Database** to deliver accurate, hallucination-free answers.
 
